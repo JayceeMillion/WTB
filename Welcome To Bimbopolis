@@ -17,13 +17,9 @@ Eventually, the vortex does spit you out onto a grassy field. You get up and loo
 Bimbopolis? Like... A city of bimbos? It would certainly explain the pink... You reach the gates, where two huge guards are standing on each side of the entrance. When they see you, the guard on the left doesn't acknowledge you with more than a curt nod. On the other hand, the younger guard on the right looks somewhat shocked at seeing you. "Whoa... A new one?", you hear him whisper to himself. -> guard_talk
 
 === guard_talk ===
-{guard_talked_to > 0: Now that you've talked to the guard, you feel even more curious about what's behind this gate.|It's probably a good idea to talk to one of them.} 
+{LIST_COUNT(guard_talked_to) > 0: Now that you've talked to the guard, you feel even more curious about what's behind this gate.|It's probably a good idea to talk to one of them.} 
 * [Talk to the left guard.]
-{ - guard_talked_to == 0:
-    ~ guard_talked_to = 1
-  - else:
-    ~ guard_talked_to = 3
-}
+~ guard_talked_to += Norman
 You approach the left guard. He doesn't move as you step in front of him. 
 
 "Um... Hello?" 
@@ -32,11 +28,7 @@ Finally, the guard does look at you. "Hello, Miss. I presume you are new here?"
 
 You snort. "I don't even know where 'here' is." The guard nods once in understanding. -> guard_explanation_1
 * [Talk to the right guard.]
-{ - guard_talked_to == 0:
-    ~ guard_talked_to = 2
-  - else:
-    ~ guard_talked_to = 3
-}                                
+~ guard_talked_to += Arwin                           
 You approach the right guard. As you come closer, he quickly straightens his posture and looks straight ahead, mirroring the left guard. When you take a second to look at him, he nervously looks at you from the corner of his eyes.
 
 "Uh... Hello, lady! What brings you to these gates?", the guard yells more than asks. 
@@ -45,7 +37,7 @@ The other guard groans. "For cunt's sake, stop being such a dolt and talk to the
 
 "Sorry. It's just, I've never been posted at the gate before when a new person arrived. You must be wondering where you are, huh?" You nod. 
 -> guard_explanation_2
-* { guard_talked_to > 0} [Time to enter the city.]
+* {LIST_COUNT(guard_talked_to) > 0} [Time to enter the city.]
 -> first_enter
     
     = guard_explanation_1
@@ -111,18 +103,81 @@ You take a breath. No other way to go but forward. Unimaginable things lie beyon
 * Let's fucking go already! # CLEAR
 
 You enter a small room. The only things inside it are a water cooler (with pink water, what the fuck is up with that?), a fake plant and a reception desk. Behind that desk, a woman is... bouncing up and down on her chair.
-{guard_talked_to > 1: Huh. Tits the size of basketballs. Arwin was right.}The woman is tanned, with beachy blonde hair in a bun and huge lips. From what you can see behind the desk, she's wearing a tight pink button-top that is mostly unbuttoned because her giant boobs wouldn't fit otherwise.  
+{guard_talked_to ? Arwin: Huh. Tits the size of basketballs. Arwin was right.}The woman is tanned, with beachy blonde hair in a bun and huge lips. From what you can see behind the desk, she's wearing a tight pink button-top that is mostly unbuttoned because her giant boobs wouldn't fit otherwise. You wonder whether her librarian-style glasses are actually prescription. 
 The woman notices you and stops bouncing. "Oh my! A new girl!" She gestures you over. 
 "Hey sweetie! My name's Cynthia. Welcome to Bimbopolis! My job here is to show newcomers like you around, but first we have to get you registrated!" She grabs a document from a drawer and pulls a pen out of her bun. 
 
-"What's your name, sweetie?" You start to answer, but Cynthia sticks her pen up in front of your face. "Oh! Before you answer, you should know that we don't really care about legal names from the other world. So if you don't like your name, just come up with a new one!" Cynthia giggles and twirls the pen around her fingers. "Isn't Bimbopolis great?"
+"What's your name, sweetie?" You start to answer, but Cynthia sticks her pen up in front of your face. "Oh! Before you answer, you should know that we don't really care about legal names from the other world. So if you don't like your name, just come up with a new one!" Cynthia giggles and twirls the pen around her fingers. "Isn't Bimbopolis great?" 
 
-That does change things. You could choose any name you want. Maybe it would be freeing to let go of your old name. What will you name yourself?
+That does change things. -> pick_name
 
-    * [My old name.]
+
+=== pick_name ===
+ You could choose any name you want. Maybe it would be freeing to let go of your old name. What will you name yourself?
+
+    * [My old name.] 
+    ~ first_name = "Danielle"
+    ~ last_name = "Grey"
+    "Danielle Grey." I don't feel right changing my name, even here. Cynthia frowns.
+    
+    "You took a while there. Is that all you could come up with?" You explain to her that it's your real name. "Alright then, if that's what you want. Don't worry, you can come back anytime if you change your mind." 
+    -> tour
     * [Chastity Faye.]
+    ~ first_name = "Chastity"
+    ~ last_name = "Faye"
+    "Chastity Faye." That sounds fancy. And Chastity's a fitting name, right? Cynthia giggles.
+    
+    "Chastity? Yeah, let's see how long that lasts." Cynthia absentmindedly rubs her breast. "Sure didn't last long for me. Anyway, that's settled then! Don't worry, you can come back anytime if you change your mind." 
+    -> tour
     * [Crystal Coxx.]
+    ~ first_name = "Crystal" 
+    ~ last_name = "Coxx"
+    "Crystal Coxx." Might as well go for broke, right? If I'm gonna be a bimbo, I'm gonna need a bimbo name. Cynthia smirks.
+    
+    "I think we already have a Crystal Cox, but I'll add an X for you. Don't wanna deprive you of the bimbo fantasies you're clearly already having. Don't worry, you can come back anytime if you want a more unique name." 
+    -> tour
     * [Jaycee Million.]
+    ~ first_name = "Jaycee"
+    ~ last_name = "Million"
+    "Jaycee Million." Whoa, where'd that come from? That name just popped into your head out of nowhere. Weird. Cynthia gasps.
+    
+    "That's a great name! It's kind of a bimbo name, but subtle, y'know? I bet you've been sitting on that one for a while. All done! You can come back anytime if you change your mind, although I don't know why you'd want to..." 
+    -> tour
     * [Stephanie Michelle.]
+    ~ first_name = "Stephanie"
+    ~ last_name = "Michelle"
+    "Stephanie Michelle." You feel almost guilty, using the name of a bimbo you've seen online. Oh well, I'm sure she wouldn't mind. Cynthia smiles knowingly.
+    
+    "Y'know, there are a few girls in the city who've talked about Miss Michelle being a great inspiration to them. I guess it's an aspirational name, huh? Well, if the pressure ever gets too much, you can always come back to change your name again." -> tour
+    
+=== tour ===
+
+Cynthia grabs a few things from her desk and then gets up from her chair with a wet plop. You look over the desk to see that her chair seat has a dildo built into it. That explains the bouncing. Cynthia adjusts her tiny black skirt and then walks out from behind the counter. "Alright, now it's time for the tour! Follow me, please!"
+
+Cynthia opens the door on the other side of the office.
+
+* Wow. #CLEAR
+
+You've formed a pretty good idea on what Bimbopolis would be like, but when you see the inside of the city for the first time, it's still a shock to say the least.
 
 ->DONE
+
+                                
+                                
+                                
+                                
+                                
+                                
+LIST butt = unimpressive, average, large, huge, massive, enormous                
+
+LIST breasts = tiny, medium, big, heaving, jumbo
+
+LIST guard_talked_to = Norman, Arwin
+
+VAR first_name = "Danielle"
+VAR last_name = "Grey"                   
+VAR hair_color = "brown"
+VAR hair_length = "shoulder-length"
+VAR skin_color = "pale"
+VAR breast_size = tiny
+VAR butt_size = unimpressive
