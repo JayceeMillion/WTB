@@ -13,4 +13,116 @@ What do you do?
 Eventually, the vortex does spit you out onto a grassy field. You get up and look around. Around you are verdant plains that stretch for miles, with the occasional blossoming tree. But what's far more interesting to you is the large pink wall in front of you. When you inspect it, you quickly spot an entrance. These are the walls to a city. And from the looks of the towers that you can see behind the wall, it's a pink city. Odd architectural choice. With no other choice other than to wait here until you starve, you make your way over to the gate. Now that you're closer to it, you can read the sign over it, and what it says makes you widen your eyes.
 
                                 WELCOME TO BIMBOPOLIS
-                                ->END
+                                
+Bimbopolis? Like... A city of bimbos? It would certainly explain the pink... You reach the gates, where two huge guards are standing on each side of the entrance. When they see you, the guard on the left doesn't acknowledge you with more than a curt nod. On the other hand, the younger guard on the right looks somewhat shocked at seeing you. "Whoa... A new one?", you hear him whisper to himself. -> guard_talk
+
+=== guard_talk ===
+{guard_talked_to > 0: Now that you've talked to the guard, you feel even more curious about what's behind this gate.|It's probably a good idea to talk to one of them.} 
+* [Talk to the left guard.]
+{ - guard_talked_to == 0:
+    ~ guard_talked_to = 1
+  - else:
+    ~ guard_talked_to = 3
+}
+You approach the left guard. He doesn't move as you step in front of him. 
+
+"Um... Hello?" 
+
+Finally, the guard does look at you. "Hello, Miss. I presume you are new here?" 
+
+You snort. "I don't even know where 'here' is." The guard nods once in understanding. -> guard_explanation_1
+* [Talk to the right guard.]
+{ - guard_talked_to == 0:
+    ~ guard_talked_to = 2
+  - else:
+    ~ guard_talked_to = 3
+}                                
+You approach the right guard. As you come closer, he quickly straightens his posture and looks straight ahead, mirroring the left guard. When you take a second to look at him, he nervously looks at you from the corner of his eyes.
+
+"Uh... Hello, lady! What brings you to these gates?", the guard yells more than asks. 
+
+The other guard groans. "For cunt's sake, stop being such a dolt and talk to the lady, Arwin." For cunt's sake? That's a new one. The young guard relaxes somewhat.
+
+"Sorry. It's just, I've never been posted at the gate before when a new person arrived. You must be wondering where you are, huh?" You nod. 
+-> guard_explanation_2
+* { guard_talked_to > 0} [Time to enter the city.]
+-> first_enter
+    
+    = guard_explanation_1
+    "Alright, so you probably came here through a portal, yes?" You nod. "That portal rarely appears to teleport women who are unhappy about themselves to this city." When he sees you raise your eyebrow, he adds, "I know. It sounds like a bad porn story." The younger guard chuckles.
+    
+    "Anyway, in these walls you'll find that nearly every woman is a bimbo. You're familiar with the term?" He doesn't wait for you to answer. "Big breasts, big ass, basically a living sex doll with the intellect of one too. You get the gist. This city holds many options to transform yourself into exactly the type of bimbo you might want to be." You stare at the man, slack-jawed.
+    
+    "Now, I know what you're thinking. 'But I don't want to be a dumb bimbo!' Most women who arrive at the gate feel that way. But the fact that the portal chose you means there is something inside you, a hidden desire. In your world, that might translate to you dying your hair blonde, maybe having a one-night stand on a whim that you feel ashamed for for weeks after. But in here, there is no limit, no shame. No pressure, either. If you just want to live your life here unmodified, no judgement. But the bimbos in this city all report being so much happier now that they don't have to feel ashamed about themselves." 
+    -> guard_question_1
+    
+    = guard_question_1
+    "It's a lot to take in, I know. Feel free to ask any questions you might have."
+    
+        * * "When you say transformation[..."]...", you ask.
+            "We have developed many ways to alter both the body and mind. Medicine, clothing, surgery... even hypnosis. These developments are extremely advanced and failproof to ensure that bimbos can safely transform in whatever way they want." Your mind reels at this. What exactly is lying beyond this gate? 
+            -> guard_question_1
+        * * "But I don't have any money[..."]...", you start. The guard holds up his hand.
+            "Don't worry about that. See those towers up there?" He points up at the towers you saw before. "Those are the Pink Towers. They are the housing quarters for everyone in Bimbopolis. There's still plenty of room, so housing is completely free. As for money, there are plenty of ways to make money in the city. You seem like a smart girl, I'm sure you can think of something." It's hard to see, but you think the guard is smirking. Oh. 
+            -> guard_question_1
+        * * "What about going back home[?"]?" This has been worrying you. You still have a life outside of this weird world. The guard looks at you sympathetically.
+            "I'm sorry. We haven't been able to figure out a way to return to your world." Oh. Wow. The thought of never going back home, never seeing your family again, hits you like a brick. 
+            "Hey, it's not so bad.", the guard continues, seeing the look on your face. "All of the women here are happier than they've ever been. And I know it's hard to leave your life behind, but you can start a new life here. Make new friends. Trust me, everyone here is real friendly." He smiles. It looks odd, but you do feel slightly better. "Anything else you want to know?" 
+            -> guard_question_1
+        * * ["No more questions."] The guard nods. "If you enter the city, the first place you'll find is the admin office. Talk to the receptionist, she'll help you get settled." 
+        -> guard_talk 
+                              
+        = guard_explanation_2               
+        "Okay!" The young guard clears his throat.
+    
+        "Welcome to the amazing city of Bimbopolis!", he bombastically exclaims. The older guard rolls his eyes. "Really, kid?"
+    
+        "Just let me do this, dude!" The two guards quibble for a bit. You take the time to take a good look at Arwin. He's a tall, decently built young man, probably in his early twenties. His short auburn hair is charmingly messy, which contrasts with the bulge in his pants. Hmm. Maybe stop staring at that now. You look back up at the young guard, who's grinning at you. 
+    
+        "Like what you see?" You blush. Arwin grabs his crotch and gives it a squeeze. "I think you're gonna fit in just fine here."
+    
+        "Anyway, where was I? Oh, yeah. The amazing city of Bimbopolis! Just beyond this gate, you'll find a metropolis of sex, a sinful paradise! Busty sluts as far as the eyes can see, and for a young lady like you, cocks of any shape and size! And you too can be a big-titted bombshell with hordes of horny admirers! Visit the Pretty Slut MegaMall for all your shopping opportunities, get your 'upgrades'," with that he gestures at his chest and behind, "at FuckDoll Industries! And a personal recommendation from me, visit Woody Park! I've gotten so many awesome blowjobs there..." He trails off, clearly lost in thought. For your part, you're too shocked to really do anything but stare at him, slack-jawed.
+    
+        Arwin snaps back to reality and looks at you. "Too much?" You nod, your jaw still on the floor. He chuckles. "Sorry about that. Listen, I get that it's a lot, but I promise you you'll have a great time here. Disneyland's a hellhole compared to Bimbopolis." Arwin grins at you.
+        -> guard_question_2
+    
+        = guard_question_2
+        "Anything else you wanna know?"
+        
+            * * "...Pretty Slut...["]", you start.
+            "Oh, yeah, the Pretty Slut MegaMall! That place is amazing. It's basically just a huge mall, the size of an entire city district. You can get like anything a bimbo could ever want there: clothes, makeup, shoes, toys..." Arwin gives you a knowing wink. "And so much more! There's a food court too, and a gym... I'm sure you can tell I spend a lot of time there." He flexes for you. You can't help but stare at his muscles. "See?" 
+            -> guard_question_2
+            * * "...FuckDoll...["]", you start.
+            "Yeah, FuckDoll Industries. Listen, that place is amazing. Bimbopolis couldn't exist without the people that work there. Basically, the entire district is filled with pharmacies, the Plastos Hospital, and a huge factory where all the meds are created." Arwin sees your face. "Kay, that sounds shifty, but I promise it's not. Every bimbo in the city uses those products, and it's all 100% safe. If you don't feel comfortable with surgery, there's meds that can increase things like breast size, butt size, lips... Anything you could want. Temporarily, of course, but still..." 
+            -> guard_question_2
+            * * "...Woody Park[?"]?" You're almost afraid to ask, but Arwin's face lights up when you mention it.
+            "You should definitely go there! It's not too far from the Pink Towers, and it's so beautiful! There's blossoming trees, clear water, benches where sluts will just come up to you and suck your cock..." Arwin realizes what he just said. "Hey, sorry about using that word... It's just, we're so used to living with bimbos here, and they prefer degrading words like that. Forgot that you wouldn't be used to that." You assure him it's okay. Arwin grins. "Oh yeah? Been called a slut once or twice during sex yourself, huh?" Your blush tells him everything he needs to know. "Anyway, it's just a great place to relax after a long day of work. Especially if there's girls doing yoga right in front of you, you know what I'm saying?" 
+            -> guard_question_2
+            * * ["No more questions."] Arwin smiles. "Don't let me keep ya waiting. Go straight through, and then you'll walk right into admin. Talk to Cynthia, she'll help you out. God, I love Cynthia. Tits the size of basketballs." Arwin seems lost in his own world again, so you step away. "Hey!"
+            
+                You turn around. "If you end up being nice and bimbofied, come find me sometime, will ya? I'd love to know what you turn out like." Arwin flashes his shark-like grin at you.
+                -> guard_talk
+            
+            
+=== first_enter ===
+
+You take a breath. No other way to go but forward. Unimaginable things lie beyond this gate, and-
+
+* Let's fucking go already! # CLEAR
+
+You enter a small room. The only things inside it are a water cooler (with pink water, what the fuck is up with that?), a fake plant and a reception desk. Behind that desk, a woman is... bouncing up and down on her chair.
+{guard_talked_to > 1: Huh. Tits the size of basketballs. Arwin was right.}The woman is tanned, with beachy blonde hair in a bun and huge lips. From what you can see behind the desk, she's wearing a tight pink button-top that is mostly unbuttoned because her giant boobs wouldn't fit otherwise.  
+The woman notices you and stops bouncing. "Oh my! A new girl!" She gestures you over. 
+"Hey sweetie! My name's Cynthia. Welcome to Bimbopolis! My job here is to show newcomers like you around, but first we have to get you registrated!" She grabs a document from a drawer and pulls a pen out of her bun. 
+
+"What's your name, sweetie?" You start to answer, but Cynthia sticks her pen up in front of your face. "Oh! Before you answer, you should know that we don't really care about legal names from the other world. So if you don't like your name, just come up with a new one!" Cynthia giggles and twirls the pen around her fingers. "Isn't Bimbopolis great?"
+
+That does change things. You could choose any name you want. Maybe it would be freeing to let go of your old name. What will you name yourself?
+
+    * [My old name.]
+    * [Chastity Faye.]
+    * [Crystal Coxx.]
+    * [Jaycee Million.]
+    * [Stephanie Michelle.]
+
+->DONE
