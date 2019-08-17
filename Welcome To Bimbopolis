@@ -1,6 +1,6 @@
 You sigh as you open your front door and walk into your apartment. Rent's due in a few days and you're struggling to pay it. You throw your keys in a bowl on your dining table, which is also the only table you own. Honestly, you have no idea how to make ends meet this month and it's stressing you out. Should you get a second job? Should you just run and live in the woods? Turn to a life of crime? 
 
-Or prostitution? You're not proud that the thought even crossed your mind, but you've heard of a few girls in your area who found creative ways to make ends meet. Sollicitating men for sex, porn, stripping... Even just becoming a camgirl, showing off for men online. But... you turn to your full-size mirror and sigh. Who would want to pay for you? You look yourself over, staring at your {hair_color} {hair_length} hair, your {skin_color} skin, your {breast_size}-cup breasts and {butt_size} behind... You're not exactly the porn star type.
+Or prostitution? You're not proud that the thought even crossed your mind, but you've heard of a few girls in your area who found creative ways to make ends meet. Sollicitating men for sex, porn, stripping... Even just becoming a camgirl, showing off for men online. But... you turn to your full-size mirror and sigh. Who would want to pay for you? You look yourself over, staring at your {hair_color} {hair_length <= 10:shoulder length} hair, your {skin_color} skin, your {breast_size<=10:A}-cup breasts and {butt_size <= 10: flat} behind... You're not exactly the porn star type.
 
 You're broken out of your train of thought by an odd noise behind you. You turn around and gasp. Right in the middle of your tiny apartment is a huge, pink, swirling vortex. What the fuck? As you struggle to even comprehend what you're seeing, you feel yourself moving towards it by sheer force. It's pulling you in!
 
@@ -273,7 +273,7 @@ You take a deep breath. "Okay." Cynthia cheers! "Yay! Oh, you're gonna love this
         You pop the pill in your mouth and swallow. For a while, nothing happens, and Luis and Cynthia's expectant faces make you feel like you messed something up. And then, right as you're about to ask what went wrong, you feel it.
         
         Your breasts start tingling. Shocked, you look down. You're not entirely sure, but... "Pull up that sweater, girl!" Luis exclaims. Normally, you wouldn't just show your tits to anyone who asked, but yeah, sure. This is a special occasion. You lift up your sweater. The tingling in your chest turns into a pleasurable pulsing feeling, and you have to resist the urge to close your eyes and lose yourself in the sensation. When Cynthia gasps, you look back down.
-        ~ breast_size = B
+        ~ breast_size = breast_size + 1
         
         Holy shit. With every pulse, your tits grow a little bit, until you have a pair of solid B-cup breasts, threatening to spill out of your bra. {luis_tour: Luis groans. "Fuck... Did that feel good?" He rapidly jacks his cock as he stares at your tits. "Ah... Fuck!" Luis's moans echo through the drugstore as he starts shooting blasts of cum onto the counter. Wow. Did you do that just with your boobs? A strange feeling washes over you, a mixture of power, excitement and... something else. Luis shudders as the last drops of cum spurt out of his dick. "Heh... I'm just gonna go... get a towel..." Luis stuffs his cock back into his pants and slinks off into the backroom.|Luis whistles. "Well, it's a start." You turn to glare at him, but freeze when you see him palming the outline of his cock through his jeans.}
         
@@ -287,7 +287,7 @@ You take a deep breath. "Okay." Cynthia cheers! "Yay! Oh, you're gonna love this
          You pop the pill in your mouth and swallow. For a while, nothing happens, and Luis and Cynthia's expectant faces make you feel like you messed something up. And then, right as you're about to ask what went wrong, you feel it.
          
          Your butt starts tingling in a way you've never felt before. You grab at your {butt_size} cheeks, and to your shock you can feel them pulsing, growing a little bit plumper with every pulse. "You should probably take off your pants.", Cynthia says matter-of-factly. Normally, you wouldn't just flash your ass in even a semi-public place like this, but you worry that your pants might actually tear. You unzip your jeans and pull them down to just underneath your asscheeks.
-          ~ butt_size = 1
+          ~ butt_size = butt_size + 1
       
          After the pleasurable pulsing slows down, you're left with a small, but pert ass. You should just get dressed again, but you can't help but rub your cheeks for a bit to get used to it. {luis_tour: Luis groans. "Hey, help me out and turn around, girl." You would normally never do this, but the feeling of having a bigger ass in a matter of seconds makes you wanna share. You stick your ass out for Luis, arching your back a bit for good measure. Luis rapidly jacks his cock as he stares at your ass, at the way your now tight panties hug it. "Ah... Fuck!" Luis's moans echo through the drugstore as he starts shooting blasts of cum onto the counter. Wow. Did you do that just with your ass? A strange feeling washes over you, a mixture of power, excitement and... something else. Luis shudders as the last drops of cum spurt out of his dick. "Heh... I'm just gonna go... get a towel..." Luis stuffs his cock back into his pants and slinks off into the backroom.|Luis whistles. "Well, it's a start." You turn to glare at him, but freeze when you see him palming the outline of his cock through his jeans.}
         
@@ -300,7 +300,7 @@ You take a deep breath. "Okay." Cynthia cheers! "Yay! Oh, you're gonna love this
         You pop the pill in your mouth and swallow. For a while, nothing happens, and Luis and Cynthia's expectant faces make you feel like you messed something up. And then, right as you're about to ask what went wrong, you feel it.
         
         Your lips start tingling. Startled, you touch them. You feel the tingling turn into an odd pulsing sensation, and with every pulse, your lips seem to push back a bit against your fingers.
-        ~ lip_size = 1 
+        ~ lip_size = lip_size + 1 
         
         Cynthia excitedly grasps her clipboard. "It's happening!" You look at her. Her lips are so huge... Could you ever have lips that plump? You swear that the pulses get a bit stronger after that, before finally calming down somewhat. You look in the hand mirror Cynthia holds up. Your lips grew in size a bit, and are now {lip_size}. You can't stop yourself from touching them. They're so sensitive too! You get a little bit wet just touching your lips, rubbing your fingers on them as you pucker your lips.
         
@@ -321,7 +321,7 @@ You take a deep breath. "Okay." Cynthia cheers! "Yay! Oh, you're gonna love this
         "Oh, right. The last pill is Pillowy Plus. Pumps up your lips. You'd be surprised how many bimbo sluts don't feel like themselves without lips so big they can't close their mouth properly." Luis shoots a pointed glance over at Cynthia. "Anyway, now that you're informed, what'll it be?" -> tour_pills
 
     - - While you're still absentmindedly rubbing your enhanced body part, Cynthia hands Luis a few hot pink bills. "Thanks for your time, Lu!" She kisses him on the cheek. "No prob, sugartits. This is my favorite part of the job, after all." Luis puts the money in his cash register. "I should be thanking you." {luis_tour: 
-            ~ luis_relationship = 1
+            ~ luis_relationship = luis_relationship + 1
         }
             
          He looks over at you. {luis_tour: "And you too, for helping me relieve my stress."|"Nothing like a newbie to perk up my day."} He glances to your boosted asset. "That'll last another 6 or so hours. Feel free to come back anytime you need another fix." He winks. Clearly he's not expecting you to last long before crawling back to him.
@@ -400,10 +400,10 @@ LIST guard_talked_to = Norman, Arwin
 VAR first_name = "Danielle"
 VAR last_name = "Grey"                   
 VAR hair_color = "brown"
-VAR hair_length = "shoulder-length"
+VAR hair_length = 0
 VAR skin_color = "pale"
-VAR breast_size = A
-VAR butt_size = flat
-VAR lip_size = thin
+VAR breast_size = 0
+VAR butt_size = 0
+VAR lip_size = 0
 VAR bsq = 0
 VAR luis_relationship = 0
