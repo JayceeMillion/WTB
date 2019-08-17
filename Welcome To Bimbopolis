@@ -1,6 +1,6 @@
 You sigh as you open your front door and walk into your apartment. Rent's due in a few days and you're struggling to pay it. You throw your keys in a bowl on your dining table, which is also the only table you own. Honestly, you have no idea how to make ends meet this month and it's stressing you out. Should you get a second job? Should you just run and live in the woods? Turn to a life of crime? 
 
-Or prostitution? You're not proud that the thought even crossed your mind, but you've heard of a few girls in your area who found creative ways to make ends meet. Sollicitating men for sex, porn, stripping... Even just becoming a camgirl, showing off for men online. But... you turn to your full-size mirror and sigh. Who would want to pay for you? You look yourself over, staring at your {hair_color} {hair_length} hair, your {skin_color} skin, your {breast_size} breasts and {butt_size} behind... You're not exactly the porn star type.
+Or prostitution? You're not proud that the thought even crossed your mind, but you've heard of a few girls in your area who found creative ways to make ends meet. Sollicitating men for sex, porn, stripping... Even just becoming a camgirl, showing off for men online. But... you turn to your full-size mirror and sigh. Who would want to pay for you? You look yourself over, staring at your {hair_color} {hair_length} hair, your {skin_color} skin, your {breast_size}-cup breasts and {butt_size} behind... You're not exactly the porn star type.
 
 You're broken out of your train of thought by an odd noise behind you. You turn around and gasp. Right in the middle of your tiny apartment is a huge, pink, swirling vortex. What the fuck? As you struggle to even comprehend what you're seeing, you feel yourself moving towards it by sheer force. It's pulling you in!
 
@@ -41,7 +41,7 @@ The other guard groans. "For cunt's sake, stop being such a dolt and talk to the
 -> first_enter
     
     = guard_explanation_1
-    "Alright, so you probably came here through a portal, yes?" You nod. "That portal rarely appears to teleport women who are unhappy about themselves to this city." When he sees you raise your eyebrow, he adds, "I know. It sounds like a bad porn story." The younger guard chuckles.
+    "Alright, so you probably came here through a portal, yes?" You nod. "That portal appears to teleport women who are unhappy about themselves to this city." When he sees you raise your eyebrow, he adds, "I know. It sounds like a bad porn story." The younger guard chuckles.
     
     "Anyway, in these walls you'll find that nearly every woman is a bimbo. You're familiar with the term?" He doesn't wait for you to answer. "Big breasts, big ass, basically a living sex doll with the intellect of one too. You get the gist. This city holds many options to transform yourself into exactly the type of bimbo you might want to be." You stare at the man, slack-jawed.
     
@@ -52,7 +52,7 @@ The other guard groans. "For cunt's sake, stop being such a dolt and talk to the
     "It's a lot to take in, I know. Feel free to ask any questions you might have."
     
         * * "When you say transformation[..."]...", you ask.
-            "We have developed many ways to alter both the body and mind. Medicine, clothing, surgery... even hypnosis. These developments are extremely advanced and failproof to ensure that bimbos can safely transform in whatever way they want." Your mind reels at this. What exactly is lying beyond this gate? 
+            "We have developed many ways to alter both the body and mind. Medicine, clothing, surgery... even special exercise. These developments are extremely advanced and failproof to ensure that bimbos can safely transform in whatever way they want." Your mind reels at this. What exactly is lying beyond this gate? 
             -> guard_question_1
         * * "But I don't have any money[..."]...", you start. The guard holds up his hand.
             "Don't worry about that. See those towers up there?" He points up at the towers you saw before. "Those are the Pink Towers. They are the housing quarters for everyone in Bimbopolis. There's still plenty of room, so housing is completely free. As for money, there are plenty of ways to make money in the city. You seem like a smart girl, I'm sure you can think of something." It's hard to see, but you think the guard is smirking. Oh. 
@@ -81,13 +81,13 @@ The other guard groans. "For cunt's sake, stop being such a dolt and talk to the
         = guard_question_2
         "Anything else you wanna know?"
         
-            * * "...Pretty Slut...["]", you start.
+            * * (arwin_mall) "...Pretty Slut...["]", you start.
             "Oh, yeah, the Pretty Slut MegaMall! That place is amazing. It's basically just a huge mall, the size of an entire city district. You can get like anything a bimbo could ever want there: clothes, makeup, shoes, toys..." Arwin gives you a knowing wink. "And so much more! There's a food court too, and a gym... I'm sure you can tell I spend a lot of time there." He flexes for you. You can't help but stare at his muscles. "See?" 
             -> guard_question_2
-            * * "...FuckDoll...["]", you start.
+            * * (arwin_hospital) "...FuckDoll...["]", you start.
             "Yeah, FuckDoll Industries. Listen, that place is amazing. Bimbopolis couldn't exist without the people that work there. Basically, the entire district is filled with pharmacies, the Plastos Hospital, and a huge factory where all the meds are created." Arwin sees your face. "Kay, that sounds shifty, but I promise it's not. Every bimbo in the city uses those products, and it's all 100% safe. If you don't feel comfortable with surgery, there's meds that can increase things like breast size, butt size, lips... Anything you could want. Temporarily, of course, but still..." 
             -> guard_question_2
-            * * "...Woody Park[?"]?" You're almost afraid to ask, but Arwin's face lights up when you mention it.
+            * * (arwin_park) "...Woody Park[?"]?" You're almost afraid to ask, but Arwin's face lights up when you mention it.
             "You should definitely go there! It's not too far from the Pink Towers, and it's so beautiful! There's blossoming trees, clear water, benches where sluts will just come up to you and suck your cock..." Arwin realizes what he just said. "Hey, sorry about using that word... It's just, we're so used to living with bimbos here, and they prefer degrading words like that. Forgot that you wouldn't be used to that." You assure him it's okay. Arwin grins. "Oh yeah? Been called a slut once or twice during sex yourself, huh?" Your blush tells him everything he needs to know. "Anyway, it's just a great place to relax after a long day of work. Especially if there's girls doing yoga right in front of you, you know what I'm saying?" 
             -> guard_question_2
             * * ["No more questions."] Arwin smiles. "Don't let me keep ya waiting. Go straight through, and then you'll walk right into admin. Talk to Cynthia, she'll help you out. God, I love Cynthia. Tits the size of basketballs." Arwin seems lost in his own world again, so you step away. "Hey!"
@@ -103,7 +103,7 @@ You take a breath. No other way to go but forward. Unimaginable things lie beyon
 * Let's fucking go already! # CLEAR
 
 You enter a small room. The only things inside it are a water cooler (with pink water, what the fuck is up with that?), a fake plant and a reception desk. Behind that desk, a woman is... bouncing up and down on her chair.
-{guard_talked_to ? Arwin: Huh. Tits the size of basketballs. Arwin was right.}The woman is tanned, with beachy blonde hair in a bun and huge lips. From what you can see behind the desk, she's wearing a tight pink button-top that is mostly unbuttoned because her giant boobs wouldn't fit otherwise. You wonder whether her librarian-style glasses are actually prescription. 
+{guard_talked_to ? Arwin: Huh. Tits the size of basketballs. Arwin was right.} The woman is tanned, with beachy blonde hair in a bun and huge lips. From what you can see behind the desk, she's wearing a tight pink button-top that is mostly unbuttoned because her giant boobs wouldn't fit otherwise. You wonder whether her librarian-style glasses are actually prescription. 
 The woman notices you and stops bouncing. "Oh my! A new girl!" She gestures you over. 
 "Hey sweetie! My name's Cynthia. Welcome to Bimbopolis! My job here is to show newcomers like you around, but first we have to get you registrated!" She grabs a document from a drawer and pulls a pen out of her bun. 
 
@@ -158,7 +158,227 @@ Cynthia opens the door on the other side of the office.
 
 * Wow. #CLEAR
 
-You've formed a pretty good idea on what Bimbopolis would be like, but when you see the inside of the city for the first time, it's still a shock to say the least.
+You've formed a pretty good idea on what Bimbopolis would be like, but when you see the inside of the city for the first time, it's still a shock to say the least. Just beyond the door is a large city square. The thing that immediately catches your eye is the fountain in the middle of it. Not only is it shooting out pink water, but the golden statue in the center of it is of a naked bimbo, with a huge, perfectly round ass and obviously fake tits bigger than her head. The pink water is even shooting out of her tits and pussy. Well then.
+
+Around the fountain, the city square is fairly crowded. Men and women are walking around on the cobblestone, but as you should've expected, every woman is a bimbo. Some have big tits, some put more focus on their ass, and they all still have a specific style, but this place really, truly is filled with women who look like they came out of a fuckdoll factory.
+
+Recovering from that vision, you look around a bit more. All of the buildings here are varying shades of pink. Most of the billboards on top of some of them advertise trashy makeup, bimbofication pills or exposing clothes, but some of them are just straight up porn. Even the lampposts are decorated with poledancing bimbos. The entire place looks like a dirty old pervert's fantasy. You don't know why it makes you feel so funny.
+
+You only realize how long you've been staring at one of the billboards ('Geez, I didn't even know boobs could be that big') when Cynthia's clear voice shocks you out of your stupor. 
+
+"So! This is Bimbo Square! The center of Bimbopolis! Isn't it gorgeous?" You quickly swivel back around to face Cynthia again, getting an eyeful and a half of her boobs as you do so. "There's so much for you to do here! There's plenty of night clubs, bars and lounges, small shops, a studio, an art gallery, a library... Oh, I almost wish I could be the newbie again, so I could discover it all over again!", she sighs.
+
+You try your hardest to focus on everything Cynthia is saying, but you find that your eye is drawn to the alley behind her, where a guy is getting his dick sucked by a trashy, plastic bimbo.
+-> tour_bsq ->
+Cynthia nods. "Alright! Well, there's a couple of places we could go to next. I think we should go to either the FuckDoll Industries District or the Pretty Slut MegaMall. So basically, are you more of a pillpopper or a shopaholic?"
+    * * Pillpopper. [] {guard_talk.arwin_hospital: The FuckDoll Industries District... Isn't that where they make meds to change your body? You ask Cynthia. "Yup, that's right! You wanna see where the magic happens?"|FuckDoll Industries? What in the world is that? You ask Cynthia. "Oh, you'll see when you get there. Shall we go there first?"} 
+        
+        You think it over for a second. You've got some experience with recreational drugs. Luckily you never got addicted to anything. There's no fucking way you'd be able to afford that shit. "Sure. It'd be interesting to see how those meds work." Cynthia looks you up and down for a second. "Don't worry. You'll see exactly how it works." She smiles brightly. "Follow me!"
+        -> tour_different -> tour_hospital
+    * * Shopaholic. [] {guard_talk.arwin_mall: The Pretty Slut MegaMall... You remember Arwin talking about that. A mall as big as a district? "A small district, but yeah," Cynthia confirms, "filled with everything you'll ever need! Honestly, I shop for at least an hour every day. I'm sooo addicted!"|The Pretty Slut MegaMall... so it's just a mall with a weird name, then? "Yeah, the name is a bit weird, but trust me, it's super fun! Everything a bimbo could ever want can be bought right there!"} 
+        
+        Well... You do love shopping. Or you used to, at least. Now, the only time you get to indulge in that hobby is when you're drunk and online. And then you deeply regret it in the morning. "Yeah, let's go there." Cynthia squees. "I get to shop and work at the same time! I love my job." She smiles brightly. "Follow me!"
+        -> tour_different -> tour_mall
+
+=== tour_bsq ===
+{bsq == 0: "Any questions so far?" Cynthia asks. Where to begin...|"Anything else?"}
+    
+
+    * ["The fountain?"] "Well... What's with the fountain?", you ask. For some reason, you're worried you're offending Cynthia's culture by questioning things. Luckily, Cynthia doesn't seem bothered. "Oh, isn't it just beautiful? I think the sculptor really nailed the labia."
+    
+        All you can do is stare at her. Have you gone insane? Are you hallucinating the pink water? Has water always been pink?
+        
+        Seeing your face, Cynthia giggles. "Oh, you mean the water? Yeah, that's the water that's been filtered through the factory. Basically, drinking pink water will have a tiny bimbofying effect on your mind. Nothing too heavy. Don't worry, the tap water in your home will be just that, no added ingredients. Doesn't it look pretty though?" Cynthia walks over to the fountain and draws her hand through the pink water. "Tastes good, tho. Like sugar water." She licks her fingers.
+        ~ bsq = bsq + 1
+        -> tour_bsq
+    * ["The billboards?"] "Those billboards are... something...", you trail off, not really sure what else to say. Especially since you're looking up at one of the billboards, where a bimbo is getting brutally fucked in three holes at once.
+    
+        "Yeah, I remember that being a lot when I first got here..." You briefly realize that Cynthia must have been new here too at some point. She just seems so seemlessly integrated into this world now. But then again, so does just about everyone... You turn back to Cynthia, who is staring at the billboard with a pink blush, rubbing her breast through her top. You clear your throat, which snaps her back to reality.
+        
+        "Oh, uh... Anyway, people realized there's not too many things to advertise to non-bimbos here, so they just started putting up porn. The guys love it. And I do too, to be honest. Just look at those big cocks drilling her..." Alright, she's gone again. You wait until Cynthia's ready to snap out of it again.
+        ~ bsq = bsq + 1
+        -> tour_bsq
+    * ["Did you just say a library?"] "Uh... A library?" You like reading, but you didn't think this city would share that particular interest. "That doesn't exactly sound very... bimbo-like." Cynthia nods.
+    
+        "It's not, but we're not the only ones here, silly! Some non-bimbos like to read, and some of them take their bimbo girlfriends over here to laugh at her while she's trying to read." You frown. But you can read. You love to read. Will this city take that from you? Will all your intellect just vanish as pink invades your mind, until you're just another doll on the conveyor belt? ...Why is that tingly feeling back?
+        
+        Cynthia looks at you with a worried face. "Hey, no need to look so... constipated? I guess? That's what that look is?" She comes over and puts an arm around your shoulders. "Listen, you can still read if you want. Just... maybe rent the book out first. Read it at home." She squeezes you and then steps back again. "I mean, I can still read. And write!" She shows you her clipboard with the document from earlier. {first_name} {last_name}. {first_name == "Danielle" and last_name == "Grey": Your name looks weird in Cynthia's girly penmanship, with a heart over the I.|Oh yeah. You literally forgot you just changed your name on a whim.}
+        
+            "See? Nothing to worry about." 
+            ~ bsq = bsq + 1
+            -> tour_bsq
+    * "Um... Behind you?"[], you say, pointing at the alley. Cynthia turns around and gasps. "Oh my god! So scandalous! How could these brazen fools in their right mind claw at each other like animals in heat in the open street? So obscene!" Okay, now you definitely feel like you're being made fun of. Cynthia giggles and turns back to you.
+    
+        "Girl, there's no public indecency laws here. Trust me, one of these days you're not gonna feel fulfilled if you haven't flashed your titties in the street at least once per day." She looks you over for a second.
+        
+        "Hey, how about a head start right now? Get naked, girl. Let everyone see what you're working with!" You violently blush and shake your head. You know you don't match up to these girls, and you don't know if you're ready to strip away your inhibitions just yet. 
+        
+        Cynthia snorts. "Just messing with you again." She turns back to the alley, where the guy is now pounding the bimbo's juicy pussy into the wall. "God, his dick is big though... Yum..." You're struggling to look away as well. God, you haven't had sex in a long time.
+            ~ bsq = bsq + 1
+        -> tour_bsq
+    * { bsq > 1} "No more questions." []->->
+
+=== tour_different ===
+You follow Cynthia. As you walk through the streets of Bimbopolis, you notice a lot of people staring your way. You feel self-conscious with all their eyes on you, but you can't really blame them. After all, in this world filled with plastic bimbo fuckdolls, you must be quite the outsider.
+
+Normal here is showing off most of your body. You're wearing an oversized sweater and long jeans. Normal is an hourglass figure, huge tits, a massive jiggly ass. You've been mistaken for a feminine boy before. Normal is thick layers of makeup caked onto your face, bright pink lips and a black smokey eye. You didn't bother to wear makeup at all, thinking you didn't want to be sexualized at work. You've felt ugly, undesirable, unnoticeable in the real world, but you've never felt this abnormal. You squirm as you walk faster to keep up with Cynthia. 
+    ->->
+
+
+=== tour_hospital ===
+After walking for a while, Cynthia comes to a sudden stop. You barely manage not to bump into her ass. "Here we are!" You peer over her shoulder. 
+
+In front of you is another square, much smaller than Bimbo Square. On the end of the square opposite you is a large white building with a pink neon cross on it. Wow, even the hospital looks tacky. On both sides of the hospital, small buildings surround the square. Most of them have more neon signs on them in the shape of pills. Subtle.
+
+Behind the hospital is a huge factory building. This factory looks a lot cleaner and shinier than any factory you've seen, though. Perhaps unsurprisingly, there's pink smoke coming from the smokestacks.
+
+"This is FuckDoll Industries!" Cynthia points at the factory. "That is the big factory where all of our meds and other medical stuff are made. From there," Cynthia moves her pointer finger over to the hospital, "things like silicone implants and stuff goes to the hospital, and pills," Cynthia waves over to the various small pharmacies, "go to the med stores. Like that one!" Cynthia's hand settles pointed at one pharmacy with a neon bimbo sign on it. "Let's go in!" Cynthia saunters off to the store.
+
+    * Guess you should follow. [] #CLEAR
+You enter after Cynthia, the door making a jingling sound as you go through. Inside is a pretty typical drugstore, with shelves of drugs lining the walls. As you scan the small boxes, you read a couple interesting names. "Gluteus Max" looks like it would influence your ass in some way. "Tittizepam" is probably a boob thing, "Pillowy Plus" is... Oh. There's a mouth on it. Gag reflex? No... Oh! Lips. Pillowy lips. Got it.
+
+Behind the counter in the back of the drugstore, a man who looks to be in his late twenties is standing behind the till, lazily leaning against the wall on his left. When he sees Cynthia, he perks up somewhat. "Hey, sugartits. What'cha looking fo-" His words get caught in his throat when he sees you. "Ohhh. A newbie, huh? Delightful." You blush with his intense stare on him.
+
+Cynthia beams as she drags you to the counter. "Luis, meet {first_name} {last_name}! She arrived just this morning!" You greet the cashier. Luis smiles and nods. Now that you're closer, you notice his right arm is rhythmically moving. Is he...? You peek over the counter. Yup. Luis has his frankly enormous cock out and is slowly tugging it.
+
+"Luis, newbie, remember? Maybe don't jack off right in front of them yet...", Cynthia says. Interesting complaint from the woman who rides a dildo chair while registering newcomers. Besides, there's no conviction behind Cynthia's voice as she looks close to drooling and is staring at Luis's dick. Luis, for his part, at least looks apologetic, even though he hasn't bothered to put his penis away.
+
+"Listen, it was a slow day. I was just tryna relieve some stress, that's all." Luis glances over at you. "If you're really uncomfortable, I'll put it away. But fucking hell, my balls need some release right now..."
+
+ * * (luis_tour) "I suppose[..."] I don't mind...", you mutter. Luis sighs in relief and grabs his cock again. "You're already my favorite newbie. So, how can I help you?" You know you're in the middle of a tour, but all you can focus on is Luis's monster, which he now isn't even trying to hide anymore.
+ 
+     You sadly don't have much experience with big dicks, but his would have to be at least 10 inches. It's thick, so thick that Luis can only barely get his hands around it. Looking at his hand moving up and down the length of his member, you can tell his cock is a darker color than his olive skin. Where his cock is hanging out of his jeans, you can tell he has an unkempt bush of dark pubes. Luis smirks and waves his cock around, and chuckles when you follow it with your eyes. You blush, but somehow the embarrassment feels worth it when a dribble of precum leaks from Luis's rod.
+    
+     "I know, it's hypnotizing." Your eyes shoot up. "I wish I could say it's all natural, but nah. Bimbos aren't the only ones who modify themselves here in Bimbopolis.", Luis admits with a grin. "Right! Speaking of which," Cynthia says as she puts her right tit back into her shirt (when did that happen? You must have been really out of it), "it's time for your first taste!" You involuntarily glance back at Luis's dick. Cynthia and Luis burst out laughing. "The meds, {first_name}." Oh. Right.
+ 
+ * * "Fuck no[!"], you can't jack off in front of me!", you stammer indignantly. You know this is the norm here, but you just fucking got here! You're not quite ready to have dicks swinging in your face 24/7 just yet, thank you very much. Luis groans, but true to his word he does stuff his cock back in his pants. It doesn't help that much when it comes to decency, now that the hard outline of his cock is stretching the fabric of his jeans.
+ 
+     "Awww!", Cynthia exclaims. You turn to look at her. "...Awwwesome, now we can... move along... is what I meant to say...", she continues as she sees the incredulous look on your face. "Luis? Meds? Please?"
+
+- Luis brings out a small plastic container. Peering inside it, you see three small pills. One of them is a light pink, one of them is orange and the last one is a bright red color. 
+
+"These tiny pills hold amazing properties. They're the very reason Bimbopolis is such an amazing place. Hell, I'm probably up to six different pills a day!" Cynthia tells you. "And now it's time for your first pill!" She excitedly claps. Wait, what? 
+
+"Uh...", you start. "Do I have to take one right now?" Cynthia stops clapping. "Well, you don't have to, but there's no time like the present to start!"
+
+"Besides, these are only temporary. They have the lowest dosage of any pills I have, so the effect will probably end in a few hours." Luis adds. "Just enough for you to get a taste. And trust me, you'll be coming back for more. They all do." Even though that line sounds like the exact thing a shady drug dealer would say, there's nothing ominous in Luis's tone. He just states it in a matter of fact way, which puts you at ease somewhat. If everyone here likes the pills, they can't be that bad, right?
+
+You take a deep breath. "Okay." Cynthia cheers! "Yay! Oh, you're gonna love this! I recommend the pink ones!" Luis opens the container. -> tour_pills
+
+    = tour_pills
+    Time to pick your poison.
+
+    * * [Light pink.] You pick up the light pink pill. {pill_knowledge: Bigger tits, huh? You've always felt insecure about your {breast_size}-cup pinpricks. How much more womanly would you feel if you had a proper pair of tits?|Hell, Cynthia recommended it. She seems trustworthy enough.}
+    
+        You pop the pill in your mouth and swallow. For a while, nothing happens, and Luis and Cynthia's expectant faces make you feel like you messed something up. And then, right as you're about to ask what went wrong, you feel it.
+        
+        Your breasts start tingling. Shocked, you look down. You're not entirely sure, but... "Pull up that sweater, girl!" Luis exclaims. Normally, you wouldn't just show your tits to anyone who asked, but yeah, sure. This is a special occasion. You lift up your sweater. The tingling in your chest turns into a pleasurable pulsing feeling, and you have to resist the urge to close your eyes and lose yourself in the sensation. When Cynthia gasps, you look back down.
+        ~ breast_size = B
+        
+        Holy shit. With every pulse, your tits grow a little bit, until you have a pair of solid B-cup breasts, threatening to spill out of your bra. {luis_tour: Luis groans. "Fuck... Did that feel good?" He rapidly jacks his cock as he stares at your tits. "Ah... Fuck!" Luis's moans echo through the drugstore as he starts shooting blasts of cum onto the counter. Wow. Did you do that just with your boobs? A strange feeling washes over you, a mixture of power, excitement and... something else. Luis shudders as the last drops of cum spurt out of his dick. "Heh... I'm just gonna go... get a towel..." Luis stuffs his cock back into his pants and slinks off into the backroom.|Luis whistles. "Well, it's a start." You turn to glare at him, but freeze when you see him palming the outline of his cock through his jeans.}
+        
+        Cynthia moves closer to inspect your new assets. "So? How do they feel?" The pulsing feeling has stopped right now, but they're still sensitive. You can't find it in yourself to stop rubbing them. "I remember my first time. I begged Luis for a box of these. I was real disappointed when I found out they wouldn't grow any bigger just from the meds."
+        
+        {luis_tour: Luis walks back into the room and starts cleaning up the counter.|Luis leans over the counter.} "Yeah, the first time's always the best. The best to watch too.", he adds with a wink. "Love seeing a newbie's mind get blown." That certainly explains his... reaction.
+        
+        
+    * * [Orange.] You pick up the orange pill. {pill_knowledge: You've always been insecure about your butt. Seeing how much better other girls fill their jeans... Maybe you could finally catch up?|Maybe the orange one gives you a bit of a tan? At the risk of looking like a Cheeto, that wouldn't be so bad...}
+    
+         You pop the pill in your mouth and swallow. For a while, nothing happens, and Luis and Cynthia's expectant faces make you feel like you messed something up. And then, right as you're about to ask what went wrong, you feel it.
+         
+         Your butt starts tingling in a way you've never felt before. You grab at your {butt_size} cheeks, and to your shock you can feel them pulsing, growing a little bit plumper with every pulse. "You should probably take off your pants.", Cynthia says matter-of-factly. Normally, you wouldn't just flash your ass in even a semi-public place like this, but you worry that your pants might actually tear. You unzip your jeans and pull them down to just underneath your asscheeks.
+          ~ butt_size = 1
+      
+         After the pleasurable pulsing slows down, you're left with a small, but pert ass. You should just get dressed again, but you can't help but rub your cheeks for a bit to get used to it. {luis_tour: Luis groans. "Hey, help me out and turn around, girl." You would normally never do this, but the feeling of having a bigger ass in a matter of seconds makes you wanna share. You stick your ass out for Luis, arching your back a bit for good measure. Luis rapidly jacks his cock as he stares at your ass, at the way your now tight panties hug it. "Ah... Fuck!" Luis's moans echo through the drugstore as he starts shooting blasts of cum onto the counter. Wow. Did you do that just with your ass? A strange feeling washes over you, a mixture of power, excitement and... something else. Luis shudders as the last drops of cum spurt out of his dick. "Heh... I'm just gonna go... get a towel..." Luis stuffs his cock back into his pants and slinks off into the backroom.|Luis whistles. "Well, it's a start." You turn to glare at him, but freeze when you see him palming the outline of his cock through his jeans.}
+        
+        Cynthia moves closer to inspect your new asset. "So? How does it feel?" The pulsing feeling has stopped right now, but your ass is still sensitive. You can't find it in yourself to stop rubbing it. "I remember my first time. I didn't remember to take off my pants and they tore. Had to walk home with my ass exposed. Didn't help that I wasn't wearing panties." Cynthia chuckles to herself. "Took me hours to actually get home. Good times."
+        
+        {luis_tour: Luis walks back into the room and starts cleaning up the counter.|Luis leans over the counter.} "Yeah, the first time's always the best. The best to watch too.", he adds with a wink. "Love seeing a newbie's mind get blown." That certainly explains his... reaction. You hitch your pants up. They're a lot tighter now.
+        
+    * * [Red.] You pick up the bright red pill. {pill_knowledge: You've always felt like your lips could be a little bigger, but you didn't think injections would be worth it. Not that you could ever afford it. But now...|What did the red pill mean again? Staying in the Matrix, right? So maybe this is a horrible idea. But hey, look at your life so far. One more bad idea couldn't hurt.}
+    
+        You pop the pill in your mouth and swallow. For a while, nothing happens, and Luis and Cynthia's expectant faces make you feel like you messed something up. And then, right as you're about to ask what went wrong, you feel it.
+        
+        Your lips start tingling. Startled, you touch them. You feel the tingling turn into an odd pulsing sensation, and with every pulse, your lips seem to push back a bit against your fingers.
+        ~ lip_size = 1 
+        
+        Cynthia excitedly grasps her clipboard. "It's happening!" You look at her. Her lips are so huge... Could you ever have lips that plump? You swear that the pulses get a bit stronger after that, before finally calming down somewhat. You look in the hand mirror Cynthia holds up. Your lips grew in size a bit, and are now {lip_size}. You can't stop yourself from touching them. They're so sensitive too! You get a little bit wet just touching your lips, rubbing your fingers on them as you pucker your lips.
+        
+        {luis_tour: Luis groans. "Those lips are nice... Bet they feel good..." He strokes his cock harder and harder, loudly panting now. Feeling a bit high from your little transformation, you blow him a kiss. "Ah... Fuck!" Luis's moans echo through the drugstore as he starts shooting blasts of cum onto the counter. Wow. Did you do that just with your lips? A strange feeling washes over you, a mixture of power, excitement and... something else. Luis shudders as the last drops of cum spurt out of his dick. "Heh... I'm just gonna go... get a towel..." Luis stuffs his cock back into his pants and slinks off into the backroom.|Luis whistles. "Well, it's a start." You turn to glare at him, but freeze when you see him palming the outline of his cock through his jeans.}
+        
+         Cynthia moves closer to inspect your face. "So? How does it feel?" You touch your lips again. The pulsing feeling is completely gone now, but they're still sensitive. Makes you wonder what it would be like to... Cynthia giggles. "Feels pretty good, judging from that blush." Cynthia steps back and touches her own pink bimbo lips. "I remember my first time. Something about having big lips made me feel so different... Like, that's how I was always meant to be, y'know?"
+         
+         {luis_tour: Luis walks back into the room and starts cleaning up the counter.|Luis leans over the counter.} "Yeah, the first time's always the best. The best to watch too.", he adds with a wink. "Love seeing a newbie's mind get blown." That certainly explains his... reaction.
+         
+    * * (pill_knowledge) ["Hey, what do these actually do?"] You decide you don't want to turn something like this into a fucked up version of those Harry Potter jelly beans. "Hey, uh..." You look up at Luis. "What am I actually going to be swallowing here?"
+    
+        {luis_tour: Luis chokes on his own spit and grips the base of his cock. "Jesus, {first_name}. Phrasing." You sheepishly grin. "Sorry." Luis relaxes again and grins. "Clever girl for not just popping one of them in your mouth though."|Luis grins. "Clever girl for not just popping one of them in your mouth."} 
+        
+        Luis points at the pink pill. "Okay, so these are Tittizepam. As you can imagine, they grow your tits. Then we have the orange ones, Gluteus Max. I'm gonna give you an educated guess as to what that one's for." You smirk. It's a butt enhancer, isn't it? "You're smart, you are. Oh well, nobody's perfect." 
+        
+        Luis gestures at one of the shelves behind him, in the backroom. "We have Mindmelt Pills for little geniuses like you. They'll help you get real dumb. If you want." You're not sure you do. "Well, you won't get your hands on them right now, anyway. Those are under lock and key until you can bring a master with you to ensure you won't wander off all hazy and shit and hurt yourself. Anyway, where was I?" Luis looks down at the pills. 
+        
+        "Oh, right. The last pill is Pillowy Plus. Pumps up your lips. You'd be surprised how many bimbo sluts don't feel like themselves without lips so big they can't close their mouth properly." Luis shoots a pointed glance over at Cynthia. "Anyway, now that you're informed, what'll it be?" -> tour_pills
+
+    - - While you're still absentmindedly rubbing your enhanced body part, Cynthia hands Luis a few hot pink bills. "Thanks for your time, Lu!" She kisses him on the cheek. "No prob, sugartits. This is my favorite part of the job, after all." Luis puts the money in his cash register. "I should be thanking you." {luis_tour: 
+            ~ luis_relationship = 1
+        }
+            
+         He looks over at you. {luis_tour: "And you too, for helping me relieve my stress."|"Nothing like a newbie to perk up my day."} He glances to your boosted asset. "That'll last another 6 or so hours. Feel free to come back anytime you need another fix." He winks. Clearly he's not expecting you to last long before crawling back to him.
+         
+         Cynthia grabs your hands. "Doesn't it feel great to be able to change anything you want about yourself with this?" She grabs one of the remaining pills out of the container. "Of course, it's only temporary, but there's plenty of ways to enhance yourself permanently, far more than I could show you on this tour. Speaking of which!" Cynthia throws the capsule on the counter. It bursts, spilling the powder inside. "Time to get going! Thanks Luis!"
+         
+         Luis starts wiping off the ruined pill. "Yeah, no problem, sugartits. Try not to damage the merchandise next time..." You get the sense that she will. You hear a bell jingle behind you. Shit, Cynthia's already outside the door. She's fast on those heels! You should ask her how to do that later. You hurry to follow her out the door.
+         
+         Cynthia is already standing outside, impatiently tapping her foot. "Are you done flirting with Luis?" She giggles as you try to splutter out that no, you weren't flirting, you don't even like Luis and his huge cock... "Just kidding, sweets. You get riled up so easily, I just can't resist."
+         
+         {tour_mall: -> tour_end|"Kay, so next up is the mall. I get to shop and work at the same time! I love my job." Cynthia turns to... the east? You're not sure. You're all turned around now. "Let's go!" Cynthia links arms with you and sets off, leaving you with no choice but to follow. -> tour_mall}
+         
+=== tour_mall ===
+
+You've been walking for a few minutes when you see the building. It rises up above the rest of the city, bigger than any skyscraper you've ever seen. It's hot pink on the outside, like many of the buildings here, with lightly pink-colored glass windows showing floors upon floors of stores. More billboards line the sides of the building, advertising a new deep red shade of lipstick simply called "Harlot". Another billboard just shows a striptease.
+
+"Welcome to the Pretty Slut MegaMall! My favorite place in all of Bimbopolis!" Cynthia is already bouncing on her heels by the time you catch up. "Y'know, having a hot curvy bod does not a bimbo make. The paradise behind these sliding doors holds everything else you need."
+
+You scan Cynthia for a second. She has her beach ball sized boobs and her proportionate behind, tan skin, platinum blonde hair and blue eyes, but you can see what she means. Her tiny button-up top, her black bra, her pink lipstick, her insanely high heels, her mini-skirt... All of those things are what immediately made you think "Bimbo" when you first met her. 
+
+Well. Her boobs certainly helped.
+
+"Come on! There's so many stores, we could be here all day and still not see them all!" Right as you walk into the mall, you pass by a bimbo carrying so many shopping bags, she had to hook two bags onto the piercings on her exposed tits. Boy, Cynthia wasn't kidding.
+
+Entering the MegaMall, you are met by a whirlwind of noise and light. It takes a few moments before you can even distinguish everything happening around you, but then you can hear the noise of people talking, high heels clacking around, pop music playing... and sex. You get the sense that you're gonna be hearing a lot of that here.
+
+Looking around, you see you've entered right at the food court. A few feet ahead of you are rows of tables, with several food counters on the other end. You read some of the names: "Thick Meat", "Cummy Yummy", "Bouncy Buns", "Like, Food and Stuff", "Slutlicious"... You're starting to worry you may never have normal food again.
+
+Trying to distract yourself from that, you look into the walkway to your left, where you're hearing some particularly odd noises. You quickly spot the source of the sounds. There's an arcade there, and looking inside you can spot several glowing screens and a few air hockey tables. You can also see one of the machines has a dildo for a seat. Pretty obvious what the goal of that game is...
+
+A little bit beyond the arcade, you see the entrance of what appears to be a cinema. There are screens on both sides of the entrance showing wildly different scenes. The left screen shows a cartoony movie of a bimbo princess in a magical wonderland. The right screen is more hardcore porn. The bimbo on the screen is giving a titjob and a blowjob at the same time. Somehow, you're sure that's the more popular screening.
+
+On your right, you see what looks like a regular grocery store and a gym. Although... Looking at some of the people exiting the gym, you're not certain how regular it really is. You have to look up, way up to look at the gigantic hulk of a man coming out of the gym. Wow. His biceps are probably bigger than your head. He could crush you without so much of a second thought. You can feel yourself blushing.
+
+Then you look down again and see the two bimbo girls hooked onto his arms. They're wearing skintight yoga pants and tight sports bras, showing off every curve of their body. Their round tits and huge asses contrast with their tiny waist. You look down at your own body, hidden under your baggy clothes. You know you can't compare. You never could.
+
+Cynthia notices your shift in mood and hugs you from behind. Her boobs pressing into your back don't really make you feel better. "Hey, don't worry! You're got plenty of time to turn into a curvy bimbo yourself! I bet guys are gonna be all over you in no time!"
+
+She probably says that to all the new girls. Still nice to hear, though. Cynthia looks at the guy you drooled over with a thoughtful expression for just a second. Then she turns back to you. "Hey, you must be hungry. Here, take this." She hands you a pink dollar bill. 20 Bimbobucks, according to the lettering on the corner of the paper. The picture in the middle is of an older woman with heavy makeup showing off her huge tits. Well, at least they're consistent.
+
+"I gotta do something for a sec. How about you go get us some food?" She must see the trepidation on your face. "There's nothing bad in the food, {first_name}. Promise. Except... Well..."
+
+Well? What's in the fucking food? "No, it's just, there's like a tiny trace amount of Mindmelt in there. That's the stuff that makes bimbos around here dumb and bouncy. But, like, the amount that's in there can't do more than induce a light buzz. Trust me, there'd be a ruckus and a half if there was more in there." You honestly don't know what to trust anymore, but Cynthia's your only real guidance in here, so sure. Whatever the fuck she says. Cynthia skips off, leaving you alone to buy your food. You suddenly feel very vulnerable.
+
+Alright, pull yourself together, {first_name}. It's just food. You walk over to the food court. Which of these kiosks is gonna have the least horrible food?
+
+    * [Thick Meat.] Thick Meat sounds like it might have something filling, at least?
+    * [Cummy Yummy.]
+    * [Bouncy Buns.]
+    * [Like, Food And Stuff.]
+    * [Slutlicious.]
+
+-> DONE
+
+
+=== tour_end ===
+Looking up at the sky, you can tell the sun is starting to go down. You're suddenly overcome by a vision of home. How late is it there? It was already dark in your world by the time you got here. You wonder if people noticed you were missing. If anyone is looking for you. You doubt it. 
 
 ->DONE
 
@@ -168,9 +388,12 @@ You've formed a pretty good idea on what Bimbopolis would be like, but when you 
                                 
                                 
                                 
-LIST butt = unimpressive, average, large, huge, massive, enormous                
+LIST butt = flat = 0, small = 1, average = 2, above_average = 3, large = 4, juicy = 5, huge = 6, jiggly = 7, massive = 8, enormous = 9, gigantic = 10 
 
-LIST breasts = tiny, medium, big, heaving, jumbo
+LIST lips = thin = 0, kissable = 1, plump = 2, juicy = 3, luscious = 4, beestung = 5, swollen = 6, ballooned = 7, bloated = 8
+
+
+LIST breasts = A, B, C, D, DD, E, EE, F, FF, G, GG, H, HH, I, II, J, JJ, K, KK, L, LL, M, MM 
 
 LIST guard_talked_to = Norman, Arwin
 
@@ -179,5 +402,8 @@ VAR last_name = "Grey"
 VAR hair_color = "brown"
 VAR hair_length = "shoulder-length"
 VAR skin_color = "pale"
-VAR breast_size = tiny
-VAR butt_size = unimpressive
+VAR breast_size = A
+VAR butt_size = flat
+VAR lip_size = thin
+VAR bsq = 0
+VAR luis_relationship = 0
