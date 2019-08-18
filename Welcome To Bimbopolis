@@ -1,6 +1,6 @@
 You sigh as you open your front door and walk into your apartment. Rent's due in a few days and you're struggling to pay it. You throw your keys in a bowl on your dining table, which is also the only table you own. Honestly, you have no idea how to make ends meet this month and it's stressing you out. Should you get a second job? Should you just run and live in the woods? Turn to a life of crime? 
 
-Or prostitution? You're not proud that the thought even crossed your mind, but you've heard of a few girls in your area who found creative ways to make ends meet. Sollicitating men for sex, porn, stripping... Even just becoming a camgirl, showing off for men online. But... you turn to your full-size mirror and sigh. Who would want to pay for you? You look yourself over, staring at your {hair_color} {hair_length <= 10:shoulder length} hair, your {skin_color} skin, your {breast_size<=10:A}-cup breasts and {butt_size <= 10: flat} behind... You're not exactly the porn star type.
+Or prostitution? You're not proud that the thought even crossed your mind, but you've heard of a few girls in your area who found creative ways to make ends meet. Sollicitating men for sex, porn, stripping... Even just becoming a camgirl, showing off for men online. But... you turn to your full-size mirror and sigh. Who would want to pay for you? You look yourself over, staring at your {describe_hairlength()} {hair_color} hair, your {skin_color} skin, your {describe_breasts()} breasts and {describe_butt()} behind... You're not exactly the porn star type.
 
 You're broken out of your train of thought by an odd noise behind you. You turn around and gasp. Right in the middle of your tiny apartment is a huge, pink, swirling vortex. What the fuck? As you struggle to even comprehend what you're seeing, you feel yourself moving towards it by sheer force. It's pulling you in!
 
@@ -385,22 +385,112 @@ Looking up at the sky, you can tell the sun is starting to go down. You're sudde
                                 
                                 
                                 
+=== function describe_breasts() ===                  
+{
+    -breast_size <= 10:
+        ~ return "flat"
+    -breast_size <= 20:
+        ~ return "petite"
+    -breast_size <= 30:
+        ~ return "cute"
+    -breast_size <= 40:
+        ~ return "perky"
+    -breast_size <= 50:
+        ~ return "round"
+    -breast_size <= 60:
+        ~ return "large"
+    -breast_size <= 70:
+        ~ return "heavy"
+    -breast_size <= 80:
+        ~ return "massive"
+    -breast_size <= 90:
+        ~ return "enormous"
+    -else: 
+        ~ return "gigantic"
+}                  
                                 
-                                
-                                
-LIST butt = flat = 0, small = 1, average = 2, above_average = 3, large = 4, juicy = 5, huge = 6, jiggly = 7, massive = 8, enormous = 9, gigantic = 10 
+=== function describe_butt() ===                  
+{
+    -butt_size <= 10:
+        ~ return "flat"
+    -butt_size <= 20:
+        ~ return "small"
+    -butt_size <= 30:
+        ~ return "average"
+    -butt_size <= 40:
+        ~ return "shapely"
+    -butt_size <= 50:
+        ~ return "large"
+    -butt_size <= 60:
+        ~ return "juicy"
+    -butt_size <= 70:
+        ~ return "bubbly"
+    -butt_size <= 80:
+        ~ return "huge"
+    -butt_size <= 90:
+        ~ return "enormous"
+    -else: 
+        ~ return "gigantic"
+}      
 
-LIST lips = thin = 0, kissable = 1, plump = 2, juicy = 3, luscious = 4, beestung = 5, swollen = 6, ballooned = 7, bloated = 8
+=== function describe_lips() ===                  
+{
+    -lip_size <= 10:
+        ~ return "thin"
+    -lip_size <= 20:
+        ~ return "kissable"
+    -lip_size <= 30:
+        ~ return "plump"
+    -lip_size <= 40:
+        ~ return "juicy"
+    -lip_size <= 50:
+        ~ return "luscious"
+    -lip_size <= 60:
+        ~ return "beestung"
+    -lip_size <= 70:
+        ~ return "swollen"
+    -lip_size <= 80:
+        ~ return "ballooned"
+    -else: 
+        ~ return "bloated"
+}  
 
-
-LIST breasts = A, B, C, D, DD, E, EE, F, FF, G, GG, H, HH, I, II, J, JJ, K, KK, L, LL, M, MM 
+=== function describe_hairlength() ===                  
+{
+    -hair_length <= 1:
+        ~ return "bald"
+    -hair_length <= 5:
+        ~ return "buzzcut"
+    -hair_length <= 10:
+        ~ return "pixie cut"
+    -hair_length <= 15:
+        ~ return "short"
+    -hair_length <= 20:
+        ~ return "neck-length"
+    -hair_length <= 30:
+        ~ return "shoulder-length"
+    -hair_length <= 40:
+        ~ return "collarbone-length"
+    -hair_length <= 50:
+        ~ return "elbow-length"
+    -hair_length <= 60:
+        ~ return "cascading"
+    -hair_length <= 70:
+        ~ return "butt-length"
+    -hair_length <= 80:
+        ~ return "knee-length"
+    -hair_length <= 90:
+        ~ return "heel-length"
+    -else: 
+        ~ return "rapunzel-esque"
+}  
 
 LIST guard_talked_to = Norman, Arwin
 
 VAR first_name = "Danielle"
 VAR last_name = "Grey"                   
 VAR hair_color = "brown"
-VAR hair_length = 0
+VAR hair_length = 30
 VAR skin_color = "pale"
 VAR breast_size = 0
 VAR butt_size = 0
