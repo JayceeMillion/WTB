@@ -1,6 +1,115 @@
 You sigh as you open your front door and walk into your apartment. Rent's due in a few days and you're struggling to pay it. You throw your keys in a bowl on your dining table, which is also the only table you own. Honestly, you have no idea how to make ends meet this month and it's stressing you out. Should you get a second job? Should you just run and live in the woods? Turn to a life of crime? 
+/*
+    Below this comment is a series of essentially long if-elseif-else statement. All that they're doing is matching the descriptors to a set range of values (Feel free to change them at any time). Before you attempt to use a interchangable descriptor for a body part you'll have to copy and paste the corresponding statement for each body part *BEFORE* it is used and edit the descriptors in the statement accordingly. I know it looks like a huge lot of code but its invisible to the reader and aside from changing the descriptors to fit a given situation you won't have to deal with them in any capacity aside from copying and pasting them. As a side note, I also had to make new variables to hold the descriptors, they're at the bottom with the rest of the variables. If you have anymore questions just message me on tumblr and I'll get back to you as soon as I can
+            -Andres
+            P.S. Do not try and translate this code into any other language. Ink, to put it bluntly, sucks dick. And not in the fun way like you do
+*/
+{
+    -breast_size <= 10:
+        ~breast_descriptor = A
+    -breast_size <= 20:
+        ~breast_descriptor = B
+    -breast_size <= 30:
+        ~breast_descriptor = C
+    -breast_size <= 40:
+        ~breast_descriptor = D
+    -breast_size <= 50:
+        ~breast_descriptor = E
+    -breast_size <= 60:
+        ~breast_descriptor = F
+    -breast_size <= 70:
+        ~breast_descriptor = G
+    -breast_size <= 80:
+        ~breast_descriptor = H
+    -breast_size <= 90:
+        ~breast_descriptor = I
+    -else: 
+        ~breast_descriptor = J
+}
 
-Or prostitution? You're not proud that the thought even crossed your mind, but you've heard of a few girls in your area who found creative ways to make ends meet. Sollicitating men for sex, porn, stripping... Even just becoming a camgirl, showing off for men online. But... you turn to your full-size mirror and sigh. Who would want to pay for you? You look yourself over, staring at your {hair_color} {hair_length <= 10:shoulder length} hair, your {skin_color} skin, your {breast_size<=10:A}-cup breasts and {butt_size <= 10: flat} behind... You're not exactly the porn star type.
+{
+    -butt_size <=10:
+        ~butt_descriptor = flat
+    -butt_size <= 20:
+        ~butt_descriptor = small
+    -butt_size <= 30:
+        ~butt_descriptor = average
+    -butt_size <= 40:
+        ~butt_descriptor = "above average"
+        /*
+            Whenever you use a descriptor that is more than one word you will need to put them in qoutes. The program will not include the qoutes in the text the reader will see.
+                    -Andres */
+    -butt_size <= 50:
+        ~butt_descriptor = large
+    -butt_size <= 60:
+        ~butt_descriptor = butt.juicy 
+        /*
+            This is denoted as butt.juicy since lips also has juicy in its list (the program needs to know which list it belongs to). Since none of the others have duplicates the program is able to assume which list they belong to, making it uneccesary to abbreviate them with the list they belong to. I don't know if you plan to do anything with the lists now that we know they are not arrays so this may be unecessary, but we can always just remove it later on 
+                    -Andres */
+    -butt_size <= 70:
+        ~butt_descriptor = huge
+    -butt_size <= 80:
+        ~butt_descriptor = massive
+    -butt_size <= 90:
+        ~butt_descriptor = enormous
+    -else: 
+        ~butt_descriptor = gigantic
+}
+
+/*
+    You need to come up with descriptors for the different types of hairlength (butch all the way to down to the bottom of her heels? Idk) Put them in the placeholders when you decide what you want them to be.
+            -Andres */
+{
+    -hair_length <= 10:
+        ~hair_length_descriptor = "PLACEHOLDER"
+    -hair_length <= 20:
+        ~hair_length_descriptor = "PLACEHOLDER"
+    -hair_length <= 30:
+        ~hair_length_descriptor = "PLACEHOLDER"
+    -hair_length <= 40:
+        ~hair_length_descriptor = "PLACEHOLDER"
+    -hair_length <= 50:
+        ~hair_length_descriptor = "PLACEHOLDER"
+    -hair_length <= 60:
+        ~hair_length_descriptor = "PLACEHOLDER"
+    -hair_length <= 70:
+        ~hair_length_descriptor = "PLACEHOLDER"
+    -hair_length <= 80:
+        ~hair_length_descriptor = "PLACEHOLDER"
+    -hair_length <= 90:
+        ~hair_length_descriptor = "PLACEHOLDER"
+    -else: 
+        ~hair_length_descriptor = "PLACEHOLDER"
+}
+
+/* 
+    One last placeholder here at the end of the lips descriptors 
+            -Andres */
+{
+    -lip_size <= 10:
+        ~lip_descriptor = thin
+    -lip_size <= 20:
+        ~lip_descriptor = kissable
+    -lip_size <= 30:
+        ~lip_descriptor = plump
+    -lip_size <= 40:
+        ~lip_descriptor = lips.juicy
+    -lip_size <= 50:
+        ~lip_descriptor = luscious
+    -lip_size <= 60:
+        ~lip_descriptor = beestung
+    -lip_size <= 70:
+        ~lip_descriptor = swollen
+    -lip_size <= 80:
+        ~lip_descriptor = ballooned
+    -lip_size <= 90:
+        ~lip_descriptor = bloated
+    -else: 
+        ~lip_descriptor = "PLACEHOLDER"
+}
+
+
+Or prostitution? You're not proud that the thought even crossed your mind, but you've heard of a few girls in your area who found creative ways to make ends meet. Sollicitating men for sex, porn, stripping... Even just becoming a camgirl, showing off for men online. But... you turn to your full-size mirror and sigh. Who would want to pay for you? You look yourself over, staring at your {hair_color} {hair_length_descriptor} hair, your {skin_color} skin, your {breast_descriptor}-cup breasts and {butt_descriptor} behind... You're not exactly the porn star type.
 
 You're broken out of your train of thought by an odd noise behind you. You turn around and gasp. Right in the middle of your tiny apartment is a huge, pink, swirling vortex. What the fuck? As you struggle to even comprehend what you're seeing, you feel yourself moving towards it by sheer force. It's pulling you in!
 
@@ -401,9 +510,13 @@ VAR first_name = "Danielle"
 VAR last_name = "Grey"                   
 VAR hair_color = "brown"
 VAR hair_length = 0
+VAR hair_length_descriptor = ""
 VAR skin_color = "pale"
-VAR breast_size = 0
-VAR butt_size = 0
+VAR breast_size = 50
+VAR breast_descriptor = ""
+VAR butt_size = 60
+VAR butt_descriptor = ""
 VAR lip_size = 0
+VAR lip_descriptor = ""
 VAR bsq = 0
 VAR luis_relationship = 0
