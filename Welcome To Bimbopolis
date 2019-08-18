@@ -1,6 +1,8 @@
 You sigh as you open your front door and walk into your apartment. Rent's due in a few days and you're struggling to pay it. You throw your keys in a bowl on your dining table, which is also the only table you own. Honestly, you have no idea how to make ends meet this month and it's stressing you out. Should you get a second job? Should you just run and live in the woods? Turn to a life of crime? 
 
-Or prostitution? You're not proud that the thought even crossed your mind, but you've heard of a few girls in your area who found creative ways to make ends meet. Sollicitating men for sex, porn, stripping... Even just becoming a camgirl, showing off for men online. But... you turn to your full-size mirror and sigh. Who would want to pay for you? You look yourself over, staring at your {hair_color} {hair_length <= 10:shoulder length} hair, your {skin_color} skin, your {breast_size<=10:A}-cup breasts and {butt_size <= 10: flat} behind... You're not exactly the porn star type.
+
+
+Or prostitution? You're not proud that the thought even crossed your mind, but you've heard of a few girls in your area who found creative ways to make ends meet. Sollicitating men for sex, porn, stripping... Even just becoming a camgirl, showing off for men online. But... you turn to your full-size mirror and sigh. Who would want to pay for you? You look yourself over, staring at your {hair_color} {describe_hair()} hair, your {skin_color} skin, your {describe_breasts()} breasts and {describe_butt()} behind... You're not exactly the porn star type.
 
 You're broken out of your train of thought by an odd noise behind you. You turn around and gasp. Right in the middle of your tiny apartment is a huge, pink, swirling vortex. What the fuck? As you struggle to even comprehend what you're seeing, you feel yourself moving towards it by sheer force. It's pulling you in!
 
@@ -268,7 +270,7 @@ You take a deep breath. "Okay." Cynthia cheers! "Yay! Oh, you're gonna love this
     = tour_pills
     Time to pick your poison.
 
-    * * [Light pink.] You pick up the light pink pill. {pill_knowledge: Bigger tits, huh? You've always felt insecure about your {breast_size}-cup pinpricks. How much more womanly would you feel if you had a proper pair of tits?|Hell, Cynthia recommended it. She seems trustworthy enough.}
+    * * [Light pink.] You pick up the light pink pill. {pill_knowledge: Bigger tits, huh? You've always felt insecure about your {describe_breasts()}-cup pinpricks. How much more womanly would you feel if you had a proper pair of tits?|Hell, Cynthia recommended it. She seems trustworthy enough.}
     
         You pop the pill in your mouth and swallow. For a while, nothing happens, and Luis and Cynthia's expectant faces make you feel like you messed something up. And then, right as you're about to ask what went wrong, you feel it.
         
@@ -286,7 +288,7 @@ You take a deep breath. "Okay." Cynthia cheers! "Yay! Oh, you're gonna love this
     
          You pop the pill in your mouth and swallow. For a while, nothing happens, and Luis and Cynthia's expectant faces make you feel like you messed something up. And then, right as you're about to ask what went wrong, you feel it.
          
-         Your butt starts tingling in a way you've never felt before. You grab at your {butt_size} cheeks, and to your shock you can feel them pulsing, growing a little bit plumper with every pulse. "You should probably take off your pants.", Cynthia says matter-of-factly. Normally, you wouldn't just flash your ass in even a semi-public place like this, but you worry that your pants might actually tear. You unzip your jeans and pull them down to just underneath your asscheeks.
+         Your butt starts tingling in a way you've never felt before. You grab at your {describe_butt()} cheeks, and to your shock you can feel them pulsing, growing a little bit plumper with every pulse. "You should probably take off your pants.", Cynthia says matter-of-factly. Normally, you wouldn't just flash your ass in even a semi-public place like this, but you worry that your pants might actually tear. You unzip your jeans and pull them down to just underneath your asscheeks.
           ~ butt_size = butt_size + 1
       
          After the pleasurable pulsing slows down, you're left with a small, but pert ass. You should just get dressed again, but you can't help but rub your cheeks for a bit to get used to it. {luis_tour: Luis groans. "Hey, help me out and turn around, girl." You would normally never do this, but the feeling of having a bigger ass in a matter of seconds makes you wanna share. You stick your ass out for Luis, arching your back a bit for good measure. Luis rapidly jacks his cock as he stares at your ass, at the way your now tight panties hug it. "Ah... Fuck!" Luis's moans echo through the drugstore as he starts shooting blasts of cum onto the counter. Wow. Did you do that just with your ass? A strange feeling washes over you, a mixture of power, excitement and... something else. Luis shudders as the last drops of cum spurt out of his dick. "Heh... I'm just gonna go... get a towel..." Luis stuffs his cock back into his pants and slinks off into the backroom.|Luis whistles. "Well, it's a start." You turn to glare at him, but freeze when you see him palming the outline of his cock through his jeans.}
@@ -302,7 +304,7 @@ You take a deep breath. "Okay." Cynthia cheers! "Yay! Oh, you're gonna love this
         Your lips start tingling. Startled, you touch them. You feel the tingling turn into an odd pulsing sensation, and with every pulse, your lips seem to push back a bit against your fingers.
         ~ lip_size = lip_size + 1 
         
-        Cynthia excitedly grasps her clipboard. "It's happening!" You look at her. Her lips are so huge... Could you ever have lips that plump? You swear that the pulses get a bit stronger after that, before finally calming down somewhat. You look in the hand mirror Cynthia holds up. Your lips grew in size a bit, and are now {lip_size}. You can't stop yourself from touching them. They're so sensitive too! You get a little bit wet just touching your lips, rubbing your fingers on them as you pucker your lips.
+        Cynthia excitedly grasps her clipboard. "It's happening!" You look at her. Her lips are so huge... Could you ever have lips that plump? You swear that the pulses get a bit stronger after that, before finally calming down somewhat. You look in the hand mirror Cynthia holds up. Your lips grew in size a bit, and are now {describe_lips()}. You can't stop yourself from touching them. They're so sensitive too! You get a little bit wet just touching your lips, rubbing your fingers on them as you pucker your lips.
         
         {luis_tour: Luis groans. "Those lips are nice... Bet they feel good..." He strokes his cock harder and harder, loudly panting now. Feeling a bit high from your little transformation, you blow him a kiss. "Ah... Fuck!" Luis's moans echo through the drugstore as he starts shooting blasts of cum onto the counter. Wow. Did you do that just with your lips? A strange feeling washes over you, a mixture of power, excitement and... something else. Luis shudders as the last drops of cum spurt out of his dick. "Heh... I'm just gonna go... get a towel..." Luis stuffs his cock back into his pants and slinks off into the backroom.|Luis whistles. "Well, it's a start." You turn to glare at him, but freeze when you see him palming the outline of his cock through his jeans.}
         
@@ -382,18 +384,106 @@ Looking up at the sky, you can tell the sun is starting to go down. You're sudde
 
 ->DONE
 
-                                
-                                
-                                
-                                
-                                
-                                
-LIST butt = flat = 0, small = 1, average = 2, above_average = 3, large = 4, juicy = 5, huge = 6, jiggly = 7, massive = 8, enormous = 9, gigantic = 10 
+=== function describe_breasts ===
+{
+    -breast_size <= 10:
+        ~return "flat"
+    -breast_size <= 20:
+        ~return "petite"
+    -breast_size <= 30:
+        ~return "cute"
+    -breast_size <= 40:
+        ~return "perky"
+    -breast_size <= 50:
+        ~return "round"
+    -breast_size <= 60:
+        ~return "large"
+    -breast_size <= 70:
+        ~return "heavy"
+    -breast_size <= 80:
+        ~return "massive"
+    -breast_size <= 90:
+        ~return "enormous"
+    -else: 
+        ~return "gigantic"
+}
+=== function describe_butt ===
+{
+    -butt_size <=10:
+        ~return "flat"
+    -butt_size <= 20:
+        ~return "small"
+    -butt_size <= 30:
+        ~return "average"
+    -butt_size <= 40:
+        ~return "above average"
+    -butt_size <= 50:
+        ~return "large"
+    -butt_size <= 60:
+        ~return "juicy"
+    -butt_size <= 70:
+        ~return "huge"
+    -butt_size <= 80:
+        ~return "massive"
+    -butt_size <= 90:
+        ~return "enormous"
+    -else: 
+        ~return "gigantic"
+}
 
-LIST lips = thin = 0, kissable = 1, plump = 2, juicy = 3, luscious = 4, beestung = 5, swollen = 6, ballooned = 7, bloated = 8
+/*
+    You need to come up with descriptors for the different types of hairlength (butch all the way to down to the bottom of her heels? Idk) Put them in the placeholders when you decide what you want them to be.
+            -Andres */
+=== function describe_hair ===
+{
+    -hair_length <= 10:
+        ~return "PLACEHOLDER"
+    -hair_length <= 20:
+        ~return "PLACEHOLDER"
+    -hair_length <= 30:
+        ~return "PLACEHOLDER"
+    -hair_length <= 40:
+        ~return "PLACEHOLDER"
+    -hair_length <= 50:
+        ~return "PLACEHOLDER"
+    -hair_length <= 60:
+        ~return "PLACEHOLDER"
+    -hair_length <= 70:
+        ~return "PLACEHOLDER"
+    -hair_length <= 80:
+        ~return "PLACEHOLDER"
+    -hair_length <= 90:
+        ~return "PLACEHOLDER"
+    -else: 
+        ~return "PLACEHOLDER"
+}
 
-
-LIST breasts = A, B, C, D, DD, E, EE, F, FF, G, GG, H, HH, I, II, J, JJ, K, KK, L, LL, M, MM 
+/* 
+    One last placeholder here at the end of the lips descriptors 
+            -Andres */
+=== function describe_lips ===
+{
+    -lip_size <= 10:
+        ~return "thin"
+    -lip_size <= 20:
+        ~return "kissable"
+    -lip_size <= 30:
+        ~return "plump"
+    -lip_size <= 40:
+        ~return "juicy"
+    -lip_size <= 50:
+        ~return "luscious"
+    -lip_size <= 60:
+        ~return "beestung"
+    -lip_size <= 70:
+        ~return "swollen"
+    -lip_size <= 80:
+        ~return "ballooned"
+    -lip_size <= 90:
+        ~return "bloated"
+    -else: 
+        ~return "PLACEHOLDER"
+}
 
 LIST guard_talked_to = Norman, Arwin
 
@@ -402,8 +492,8 @@ VAR last_name = "Grey"
 VAR hair_color = "brown"
 VAR hair_length = 0
 VAR skin_color = "pale"
-VAR breast_size = 0
-VAR butt_size = 0
+VAR breast_size = 50
+VAR butt_size = 60
 VAR lip_size = 0
 VAR bsq = 0
 VAR luis_relationship = 0
