@@ -1,6 +1,8 @@
 You sigh as you open your front door and walk into your apartment. Rent's due in a few days and you're struggling to pay it. You throw your keys in a bowl on your dining table, which is also the only table you own. Honestly, you have no idea how to make ends meet this month and it's stressing you out. Should you get a second job? Should you just run and live in the woods? Turn to a life of crime? 
 
-Or prostitution? You're not proud that the thought even crossed your mind, but you've heard of a few girls in your area who found creative ways to make ends meet. Sollicitating men for sex, porn, stripping... Even just becoming a camgirl, showing off for men online. But... you turn to your full-size mirror and sigh. Who would want to pay for you? You look yourself over, staring at your {hair_color} {hair_length <= 10:shoulder length} hair, your {skin_color} skin, your {breast_size<=10:A}-cup breasts and {butt_size <= 10: flat} behind... You're not exactly the porn star type.
+
+
+Or prostitution? You're not proud that the thought even crossed your mind, but you've heard of a few girls in your area who found creative ways to make ends meet. Sollicitating men for sex, porn, stripping... Even just becoming a camgirl, showing off for men online. But... you turn to your full-size mirror and sigh. Who would want to pay for you? You look yourself over, staring at your {hair_color} {describe_hair()} hair, your {skin_color} skin, your {describe_breasts()} breasts and {describe_butt()} behind... You're not exactly the porn star type.
 
 You're broken out of your train of thought by an odd noise behind you. You turn around and gasp. Right in the middle of your tiny apartment is a huge, pink, swirling vortex. What the fuck? As you struggle to even comprehend what you're seeing, you feel yourself moving towards it by sheer force. It's pulling you in!
 
@@ -382,18 +384,146 @@ Looking up at the sky, you can tell the sun is starting to go down. You're sudde
 
 ->DONE
 
-                                
-                                
-                                
-                                
-                                
-                                
-LIST butt = flat = 0, small = 1, average = 2, above_average = 3, large = 4, juicy = 5, huge = 6, jiggly = 7, massive = 8, enormous = 9, gigantic = 10 
+=== function describe_breasts ===
+{
+    -breast_size <= 10:
+        ~breast_descriptor = "flat"
+        ~return breast_descriptor
+    -breast_size <= 20:
+        ~breast_descriptor = "petite"
+        ~return breast_descriptor
+    -breast_size <= 30:
+        ~breast_descriptor = "cute"
+        ~return breast_descriptor
+    -breast_size <= 40:
+        ~breast_descriptor = "perky"
+        ~return breast_descriptor
+    -breast_size <= 50:
+        ~breast_descriptor = "round"
+        ~return breast_descriptor
+    -breast_size <= 60:
+        ~breast_descriptor = "large"
+        ~return breast_descriptor
+    -breast_size <= 70:
+        ~breast_descriptor = "heavy"
+        ~return breast_descriptor
+    -breast_size <= 80:
+        ~breast_descriptor = "massive"
+        ~return breast_descriptor
+    -breast_size <= 90:
+        ~breast_descriptor = "enormous"
+        ~return breast_descriptor
+    -else: 
+        ~breast_descriptor = "gigantic"
+        ~return breast_descriptor
+}
+=== function describe_butt ===
+{
+    -butt_size <=10:
+        ~butt_descriptor = "flat"
+        ~return butt_descriptor
+    -butt_size <= 20:
+        ~butt_descriptor = "small"
+        ~return butt_descriptor
+    -butt_size <= 30:
+        ~butt_descriptor = "average"
+        ~return butt_descriptor
+    -butt_size <= 40:
+        ~butt_descriptor = "above average"
+        ~return butt_descriptor
+    -butt_size <= 50:
+        ~butt_descriptor = "large"
+        ~return butt_descriptor
+    -butt_size <= 60:
+        ~butt_descriptor = "juicy"
+        ~return butt_descriptor
+    -butt_size <= 70:
+        ~butt_descriptor = "huge"
+        ~return butt_descriptor
+    -butt_size <= 80:
+        ~butt_descriptor = "massive"
+        ~return butt_descriptor
+    -butt_size <= 90:
+        ~butt_descriptor = "enormous"
+        ~return butt_descriptor
+    -else: 
+        ~butt_descriptor = "gigantic"
+        ~return butt_descriptor
+}
 
-LIST lips = thin = 0, kissable = 1, plump = 2, juicy = 3, luscious = 4, beestung = 5, swollen = 6, ballooned = 7, bloated = 8
+/*
+    You need to come up with descriptors for the different types of hairlength (butch all the way to down to the bottom of her heels? Idk) Put them in the placeholders when you decide what you want them to be.
+            -Andres */
+=== function describe_hair ===
+{
+    -hair_length <= 10:
+        ~hair_length_descriptor = "PLACEHOLDER"
+        ~return hair_length_descriptor
+    -hair_length <= 20:
+        ~hair_length_descriptor = "PLACEHOLDER"
+        ~return hair_length_descriptor
+    -hair_length <= 30:
+        ~hair_length_descriptor = "PLACEHOLDER"
+        ~return hair_length_descriptor
+    -hair_length <= 40:
+        ~hair_length_descriptor = "PLACEHOLDER"
+        ~return hair_length_descriptor
+    -hair_length <= 50:
+        ~hair_length_descriptor = "PLACEHOLDER"
+        ~return hair_length_descriptor
+    -hair_length <= 60:
+        ~hair_length_descriptor = "PLACEHOLDER"
+        ~return hair_length_descriptor
+    -hair_length <= 70:
+        ~hair_length_descriptor = "PLACEHOLDER"
+        ~return hair_length_descriptor
+    -hair_length <= 80:
+        ~hair_length_descriptor = "PLACEHOLDER"
+        ~return hair_length_descriptor
+    -hair_length <= 90:
+        ~hair_length_descriptor = "PLACEHOLDER"
+        ~return hair_length_descriptor
+    -else: 
+        ~hair_length_descriptor = "PLACEHOLDER"
+        ~return hair_length_descriptor
+}
 
-
-LIST breasts = A, B, C, D, DD, E, EE, F, FF, G, GG, H, HH, I, II, J, JJ, K, KK, L, LL, M, MM 
+/* 
+    One last placeholder here at the end of the lips descriptors 
+            -Andres */
+=== function describe_lips ===
+{
+    -lip_size <= 10:
+        ~lip_descriptor = "thin"
+        ~return lip_descriptor
+    -lip_size <= 20:
+        ~lip_descriptor = "kissable"
+        ~return lip_descriptor
+    -lip_size <= 30:
+        ~lip_descriptor = "plump"
+        ~return lip_descriptor
+    -lip_size <= 40:
+        ~lip_descriptor = "juicy"
+        ~return lip_descriptor
+    -lip_size <= 50:
+        ~lip_descriptor = "luscious"
+        ~return lip_descriptor
+    -lip_size <= 60:
+        ~lip_descriptor = "beestung"
+        ~return lip_descriptor
+    -lip_size <= 70:
+        ~lip_descriptor = "swollen"
+        ~return lip_descriptor
+    -lip_size <= 80:
+        ~lip_descriptor = "ballooned"
+        ~return lip_descriptor
+    -lip_size <= 90:
+        ~lip_descriptor = "bloated"
+        ~return lip_descriptor
+    -else: 
+        ~lip_descriptor = "PLACEHOLDER"
+        ~return lip_descriptor
+}
 
 LIST guard_talked_to = Norman, Arwin
 
@@ -401,9 +531,13 @@ VAR first_name = "Danielle"
 VAR last_name = "Grey"                   
 VAR hair_color = "brown"
 VAR hair_length = 0
+VAR hair_length_descriptor = ""
 VAR skin_color = "pale"
-VAR breast_size = 0
-VAR butt_size = 0
+VAR breast_size = 50
+VAR breast_descriptor = ""
+VAR butt_size = 60
+VAR butt_descriptor = ""
 VAR lip_size = 0
+VAR lip_descriptor = ""
 VAR bsq = 0
 VAR luis_relationship = 0
