@@ -1,4 +1,6 @@
-You sigh as you open your front door and walk into your apartment. Rent's due in a few days and you're struggling to pay it. You throw your keys in a bowl on your dining table, which is also the only table you own. Honestly, you have no idea how to make ends meet this month and it's stressing you out. Should you get a second job? Should you just run and live in the woods? Turn to a life of crime? 
+INCLUDE FUNCTIONS.ink
+
+You sigh as you open your front door and walk into your apartment. Rent's due in a few days and you're struggling to pay it. You throw your keys in a bowl on your dining table, which is also the only table you own. Honestly, you have no idea how to make ends meet this month and it's stressing you out. Should you get a second job? Should you just run and live in the woods? Turn to a life of crime?
 
 Or prostitution? You're not proud that the thought even crossed your mind, but you've heard of a few girls in your area who found creative ways to make ends meet. Sollicitating men for sex, porn, stripping... Even just becoming a camgirl, showing off for men online. But... you turn to your full-size mirror and sigh. Who would want to pay for you? You look yourself over, staring at your {describe_hairlength()} {hair_color} hair, your {skin_color} skin, your {describe_breasts()} breasts and {describe_butt()} behind... You're not exactly the porn star type.
 
@@ -273,7 +275,7 @@ You take a deep breath. "Okay." Cynthia cheers! "Yay! Oh, you're gonna love this
         You pop the pill in your mouth and swallow. For a while, nothing happens, and Luis and Cynthia's expectant faces make you feel like you messed something up. And then, right as you're about to ask what went wrong, you feel it.
         
         Your breasts start tingling. Shocked, you look down. You're not entirely sure, but... "Pull up that sweater, girl!" Luis exclaims. Normally, you wouldn't just show your tits to anyone who asked, but yeah, sure. This is a special occasion. You lift up your sweater. The tingling in your chest turns into a pleasurable pulsing feeling, and you have to resist the urge to close your eyes and lose yourself in the sensation. When Cynthia gasps, you look back down.
-        ~ breast_size = breast_size + 1
+        ~ breast_size = breast_size + 10
         
         Holy shit. With every pulse, your tits grow a little bit, until you have a pair of solid B-cup breasts, threatening to spill out of your bra. {luis_tour: Luis groans. "Fuck... Did that feel good?" He rapidly jacks his cock as he stares at your tits. "Ah... Fuck!" Luis's moans echo through the drugstore as he starts shooting blasts of cum onto the counter. Wow. Did you do that just with your boobs? A strange feeling washes over you, a mixture of power, excitement and... something else. Luis shudders as the last drops of cum spurt out of his dick. "Heh... I'm just gonna go... get a towel..." Luis stuffs his cock back into his pants and slinks off into the backroom.|Luis whistles. "Well, it's a start." You turn to glare at him, but freeze when you see him palming the outline of his cock through his jeans.}
         
@@ -287,7 +289,7 @@ You take a deep breath. "Okay." Cynthia cheers! "Yay! Oh, you're gonna love this
          You pop the pill in your mouth and swallow. For a while, nothing happens, and Luis and Cynthia's expectant faces make you feel like you messed something up. And then, right as you're about to ask what went wrong, you feel it.
          
          Your butt starts tingling in a way you've never felt before. You grab at your {describe_butt()} cheeks, and to your shock you can feel them pulsing, growing a little bit plumper with every pulse. "You should probably take off your pants.", Cynthia says matter-of-factly. Normally, you wouldn't just flash your ass in even a semi-public place like this, but you worry that your pants might actually tear. You unzip your jeans and pull them down to just underneath your asscheeks.
-          ~ butt_size = butt_size + 1
+          ~ butt_size = butt_size + 10
       
          After the pleasurable pulsing slows down, you're left with a small, but pert ass. You should just get dressed again, but you can't help but rub your cheeks for a bit to get used to it. {luis_tour: Luis groans. "Hey, help me out and turn around, girl." You would normally never do this, but the feeling of having a bigger ass in a matter of seconds makes you wanna share. You stick your ass out for Luis, arching your back a bit for good measure. Luis rapidly jacks his cock as he stares at your ass, at the way your now tight panties hug it. "Ah... Fuck!" Luis's moans echo through the drugstore as he starts shooting blasts of cum onto the counter. Wow. Did you do that just with your ass? A strange feeling washes over you, a mixture of power, excitement and... something else. Luis shudders as the last drops of cum spurt out of his dick. "Heh... I'm just gonna go... get a towel..." Luis stuffs his cock back into his pants and slinks off into the backroom.|Luis whistles. "Well, it's a start." You turn to glare at him, but freeze when you see him palming the outline of his cock through his jeans.}
         
@@ -300,9 +302,9 @@ You take a deep breath. "Okay." Cynthia cheers! "Yay! Oh, you're gonna love this
         You pop the pill in your mouth and swallow. For a while, nothing happens, and Luis and Cynthia's expectant faces make you feel like you messed something up. And then, right as you're about to ask what went wrong, you feel it.
         
         Your lips start tingling. Startled, you touch them. You feel the tingling turn into an odd pulsing sensation, and with every pulse, your lips seem to push back a bit against your fingers.
-        ~ lip_size = lip_size + 1 
+        ~ lip_size = lip_size + 10 
         
-        Cynthia excitedly grasps her clipboard. "It's happening!" You look at her. Her lips are so huge... Could you ever have lips that plump? You swear that the pulses get a bit stronger after that, before finally calming down somewhat. You look in the hand mirror Cynthia holds up. Your lips grew in size a bit, and are now {describe_lips()}. You can't stop yourself from touching them. They're so sensitive too! You get a little bit wet just touching your lips, rubbing your fingers on them as you pucker your lips.
+        Cynthia excitedly grasps her clipboard. "It's happening!" You look at her. Her lips are so huge... Could you ever have lips that plump? You swear that the pulses get a bit stronger after that, before finally calming down somewhat. You look in the hand mirror Cynthia holds up. Your lips grew in size a bit, and are now way more {describe_lips()}. You can't stop yourself from touching them. They're so sensitive too! You get a little bit wet just touching your lips, rubbing your fingers on them as you pucker your lips.
         
         {luis_tour: Luis groans. "Those lips are nice... Bet they feel good..." He strokes his cock harder and harder, loudly panting now. Feeling a bit high from your little transformation, you blow him a kiss. "Ah... Fuck!" Luis's moans echo through the drugstore as he starts shooting blasts of cum onto the counter. Wow. Did you do that just with your lips? A strange feeling washes over you, a mixture of power, excitement and... something else. Luis shudders as the last drops of cum spurt out of his dick. "Heh... I'm just gonna go... get a towel..." Luis stuffs his cock back into his pants and slinks off into the backroom.|Luis whistles. "Well, it's a start." You turn to glare at him, but freeze when you see him palming the outline of his cock through his jeans.}
         
@@ -338,9 +340,9 @@ You take a deep breath. "Okay." Cynthia cheers! "Yay! Oh, you're gonna love this
 
 You've been walking for a few minutes when you see the building. It rises up above the rest of the city, bigger than any skyscraper you've ever seen. It's hot pink on the outside, like many of the buildings here, with lightly pink-colored glass windows showing floors upon floors of stores. More billboards line the sides of the building, advertising a new deep red shade of lipstick simply called "Harlot". Another billboard just shows a striptease.
 
-"Welcome to the Pretty Slut MegaMall! My favorite place in all of Bimbopolis!" Cynthia is already bouncing on her heels by the time you catch up. "Y'know, having a hot curvy bod does not a bimbo make. The paradise behind these sliding doors holds everything else you need."
+"Welcome to the Pretty Slut MegaMall! My favorite place in all of Bimbopolis!" Cynthia is already bouncing on her heels by the time you catch up. "Y'know, just having a hot curvy bod does not a bimbo make. The paradise behind these sliding doors holds everything else you need."
 
-You scan Cynthia for a second. She has her beach ball sized boobs and her proportionate behind, tan skin, platinum blonde hair and blue eyes, but you can see what she means. Her tiny button-up top, her black bra, her pink lipstick, her insanely high heels, her mini-skirt... All of those things are what immediately made you think "Bimbo" when you first met her. 
+You scan Cynthia for a second. She has her basketball-sized boobs and her proportionate behind, tan skin, platinum blonde hair and blue eyes, but you can see what she means. Her tiny button-up top, her black bra, her pink lipstick, her insanely high heels, her mini-skirt... All of those things are what immediately made you think "Bimbo" when you first met her. 
 
 Well. Her boobs certainly helped.
 
@@ -348,7 +350,7 @@ Well. Her boobs certainly helped.
 
 Entering the MegaMall, you are met by a whirlwind of noise and light. It takes a few moments before you can even distinguish everything happening around you, but then you can hear the noise of people talking, high heels clacking around, pop music playing... and sex. You get the sense that you're gonna be hearing a lot of that here.
 
-Looking around, you see you've entered right at the food court. A few feet ahead of you are rows of tables, with several food counters on the other end. You read some of the names: "Thick Meat", "Cummy Yummy", "Bouncy Buns", "Like, Food and Stuff", "Slutlicious"... You're starting to worry you may never have normal food again.
+Looking around, you see you've entered right at the food court. A few feet ahead of you are rows of tables, with several food counters on the other end. You read some of the names: "Thick Meat", "Cummy Yummy", "Bouncy Buns", "Like, Food and Stuff", "Oppai Ippudo"... You're starting to worry you may never have normal food again.
 
 Trying to distract yourself from that, you look into the walkway to your left, where you're hearing some particularly odd noises. You quickly spot the source of the sounds. There's an arcade there, and looking inside you can spot several glowing screens and a few air hockey tables. You can also see one of the machines has a dildo for a seat. Pretty obvious what the goal of that game is...
 
@@ -368,16 +370,29 @@ Well? What's in the fucking food? "No, it's just, there's like a tiny trace amou
 
 Alright, pull yourself together, {first_name}. It's just food. You walk over to the food court. Which of these kiosks is gonna have the least horrible food?
 
-    * [Thick Meat.] (meat) Thick Meat sounds like it might have something filling, at least?
+    * (meat) [Thick Meat.] Thick Meat sounds like it might have something filling, at least?
         You walk over to the kiosk, where a buff, deeply tanned man has only barely managed to fit himself behind the small counter. He looks you up and down as you walk over. "New meat, huh? Bet you're hungry." You nod, intimidated by the guy's sheer size and gruff voice.
         
         "Let's see... How about I give you my Xtra Thick Sausage?" He must see your expression, if his bellowing laugh is anything to go by. "It's really a sausage. Sorry, couldn't help but yank yer tits for a second." Your eyebrows must be reaching your hairline at this point. He chuckles as he turns around to prepare your food. "Figure of speech."
         
         "Want fries with that?", he yells over his shoulder. You reply, but he already threw the fries into the fryer, so you're pretty sure you're getting them no matter what. 
-    * [Cummy Yummy.] (cum) You stare at the kiosk in apprehension. 
-    * [Bouncy Buns.]
-    * [Like, Food And Stuff.]
-    * [Slutlicious.]
+    * (cum) [Cummy Yummy.] You stare at the kiosk in apprehension. They wouldn't mean literally... right? A quick look at the menu seems innocuous enough. Ice cream, biscuits... They even have fresh strawberries. You feel more at ease already. Sure, it says "Served with Spunk!" at the bottom, but that's probably just a joke. You've gathered that this world has a special sense of humor you're gonna need to get used to.
+    
+        You're surprised when you get a good look at the woman behind the counter. She looks to be about your age, with pale skin unlike the deep tans most of the girls here have. Her face, albeit made up with dark colors, doesn't look altered at all, and her hair is black and in a simple ponytail. You glance down at her breasts for a second. Sure, they're still decently big, but you can tell that they're natural. You've become so accustomed to being surrounded by plastic surgery advertisements that her presence is jarring to you now. When you look back up to her face, she's watching you with a smirk on her face.
+        
+        "Well look at that, someone with tits smaller than me. Even some of the guys around here can't say that." You laugh. See, everything's normal, this lady is perfectly nice, nothing weird about this. "You must be new. And you want to eat here? Boy, you're gonna fit right in." Wait. What?
+        
+        A line is starting to form, so you quickly order some ice cream. "Coming right up," she says with a wink. Uh oh. What did you just order?
+    * (buns) [Bouncy Buns.] Looking at some of the weird food on sale in the food court, you gravitate to the Bouncy Buns. It's just hotdogs and burgers, right? After falling into a world filled with stick-thin girls who are prettier than you, you certainly feel like eating away your insecurities with the most unhealthy food you can find.
+    
+        You frown in confusion when you reach the counter, where you can only see some hair sticking
+        out. Leaning on the counter, you see a short bimbo girl looking up at you. "Hi! How can I help you?" You only take one more second to marvel at her proportions, with her melon-sized boobs and especially her massive ass on her tiny body. "Uh, two cheeseburgers?"
+        
+        The girl bounces on her heels. "Sure thing, sweetie!" She then turns around. "TWO MEATY BUNS WITH CHEESE!" Jeez, that clear, bubbly voice turned into a drill sargeant scream real quick.
+    * (celery) [Like, Food And Stuff.] Well, the name's a bit odd, but at least it's advertising healthy food. Looking around, you suddenly feel chubby, so you better start catching up.
+    
+        
+    * (ramen) [Oppai Ippudo.]
     - You sit at the table closest to the kiosk and wait for your food
 
 -> DONE
@@ -391,105 +406,7 @@ Looking up at the sky, you can tell the sun is starting to go down. You're sudde
                                 
                                 
                                 
-=== function describe_breasts() ===                  
-{
-    -breast_size <= 10:
-        ~ return "flat"
-    -breast_size <= 20:
-        ~ return "petite"
-    -breast_size <= 30:
-        ~ return "cute"
-    -breast_size <= 40:
-        ~ return "perky"
-    -breast_size <= 50:
-        ~ return "round"
-    -breast_size <= 60:
-        ~ return "large"
-    -breast_size <= 70:
-        ~ return "heavy"
-    -breast_size <= 80:
-        ~ return "massive"
-    -breast_size <= 90:
-        ~ return "enormous"
-    -else: 
-        ~ return "gigantic"
-}                  
-                                
-=== function describe_butt() ===                  
-{
-    -butt_size <= 10:
-        ~ return "flat"
-    -butt_size <= 20:
-        ~ return "small"
-    -butt_size <= 30:
-        ~ return "average"
-    -butt_size <= 40:
-        ~ return "shapely"
-    -butt_size <= 50:
-        ~ return "large"
-    -butt_size <= 60:
-        ~ return "juicy"
-    -butt_size <= 70:
-        ~ return "bubbly"
-    -butt_size <= 80:
-        ~ return "huge"
-    -butt_size <= 90:
-        ~ return "enormous"
-    -else: 
-        ~ return "gigantic"
-}      
 
-=== function describe_lips() ===                  
-{
-    -lip_size <= 10:
-        ~ return "thin"
-    -lip_size <= 20:
-        ~ return "kissable"
-    -lip_size <= 30:
-        ~ return "plump"
-    -lip_size <= 40:
-        ~ return "juicy"
-    -lip_size <= 50:
-        ~ return "luscious"
-    -lip_size <= 60:
-        ~ return "beestung"
-    -lip_size <= 70:
-        ~ return "swollen"
-    -lip_size <= 80:
-        ~ return "ballooned"
-    -else: 
-        ~ return "bloated"
-}  
-
-=== function describe_hairlength() ===                  
-{
-    -hair_length <= 1:
-        ~ return "bald"
-    -hair_length <= 5:
-        ~ return "buzzcut"
-    -hair_length <= 10:
-        ~ return "pixie cut"
-    -hair_length <= 15:
-        ~ return "short"
-    -hair_length <= 20:
-        ~ return "neck-length"
-    -hair_length <= 30:
-        ~ return "shoulder-length"
-    -hair_length <= 40:
-        ~ return "collarbone-length"
-    -hair_length <= 50:
-        ~ return "elbow-length"
-    -hair_length <= 60:
-        ~ return "cascading"
-    -hair_length <= 70:
-        ~ return "butt-length"
-    -hair_length <= 80:
-        ~ return "knee-length"
-    -hair_length <= 90:
-        ~ return "heel-length"
-    -else: 
-        ~ return "rapunzel-esque"
-}  
 
 LIST guard_talked_to = Norman, Arwin
 
