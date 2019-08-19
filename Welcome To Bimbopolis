@@ -268,7 +268,7 @@ You take a deep breath. "Okay." Cynthia cheers! "Yay! Oh, you're gonna love this
     = tour_pills
     Time to pick your poison.
 
-    * * [Light pink.] You pick up the light pink pill. {pill_knowledge: Bigger tits, huh? You've always felt insecure about your {breast_size}-cup pinpricks. How much more womanly would you feel if you had a proper pair of tits?|Hell, Cynthia recommended it. She seems trustworthy enough.}
+    * * [Light pink.] You pick up the light pink pill. {pill_knowledge: Bigger tits, huh? You've always felt insecure about your {describe_breasts()}-cup pinpricks. How much more womanly would you feel if you had a proper pair of tits?|Hell, Cynthia recommended it. She seems trustworthy enough.}
     
         You pop the pill in your mouth and swallow. For a while, nothing happens, and Luis and Cynthia's expectant faces make you feel like you messed something up. And then, right as you're about to ask what went wrong, you feel it.
         
@@ -286,7 +286,7 @@ You take a deep breath. "Okay." Cynthia cheers! "Yay! Oh, you're gonna love this
     
          You pop the pill in your mouth and swallow. For a while, nothing happens, and Luis and Cynthia's expectant faces make you feel like you messed something up. And then, right as you're about to ask what went wrong, you feel it.
          
-         Your butt starts tingling in a way you've never felt before. You grab at your {butt_size} cheeks, and to your shock you can feel them pulsing, growing a little bit plumper with every pulse. "You should probably take off your pants.", Cynthia says matter-of-factly. Normally, you wouldn't just flash your ass in even a semi-public place like this, but you worry that your pants might actually tear. You unzip your jeans and pull them down to just underneath your asscheeks.
+         Your butt starts tingling in a way you've never felt before. You grab at your {describe_butt()} cheeks, and to your shock you can feel them pulsing, growing a little bit plumper with every pulse. "You should probably take off your pants.", Cynthia says matter-of-factly. Normally, you wouldn't just flash your ass in even a semi-public place like this, but you worry that your pants might actually tear. You unzip your jeans and pull them down to just underneath your asscheeks.
           ~ butt_size = butt_size + 1
       
          After the pleasurable pulsing slows down, you're left with a small, but pert ass. You should just get dressed again, but you can't help but rub your cheeks for a bit to get used to it. {luis_tour: Luis groans. "Hey, help me out and turn around, girl." You would normally never do this, but the feeling of having a bigger ass in a matter of seconds makes you wanna share. You stick your ass out for Luis, arching your back a bit for good measure. Luis rapidly jacks his cock as he stares at your ass, at the way your now tight panties hug it. "Ah... Fuck!" Luis's moans echo through the drugstore as he starts shooting blasts of cum onto the counter. Wow. Did you do that just with your ass? A strange feeling washes over you, a mixture of power, excitement and... something else. Luis shudders as the last drops of cum spurt out of his dick. "Heh... I'm just gonna go... get a towel..." Luis stuffs his cock back into his pants and slinks off into the backroom.|Luis whistles. "Well, it's a start." You turn to glare at him, but freeze when you see him palming the outline of his cock through his jeans.}
@@ -302,7 +302,7 @@ You take a deep breath. "Okay." Cynthia cheers! "Yay! Oh, you're gonna love this
         Your lips start tingling. Startled, you touch them. You feel the tingling turn into an odd pulsing sensation, and with every pulse, your lips seem to push back a bit against your fingers.
         ~ lip_size = lip_size + 1 
         
-        Cynthia excitedly grasps her clipboard. "It's happening!" You look at her. Her lips are so huge... Could you ever have lips that plump? You swear that the pulses get a bit stronger after that, before finally calming down somewhat. You look in the hand mirror Cynthia holds up. Your lips grew in size a bit, and are now {lip_size}. You can't stop yourself from touching them. They're so sensitive too! You get a little bit wet just touching your lips, rubbing your fingers on them as you pucker your lips.
+        Cynthia excitedly grasps her clipboard. "It's happening!" You look at her. Her lips are so huge... Could you ever have lips that plump? You swear that the pulses get a bit stronger after that, before finally calming down somewhat. You look in the hand mirror Cynthia holds up. Your lips grew in size a bit, and are now {describe_lips()}. You can't stop yourself from touching them. They're so sensitive too! You get a little bit wet just touching your lips, rubbing your fingers on them as you pucker your lips.
         
         {luis_tour: Luis groans. "Those lips are nice... Bet they feel good..." He strokes his cock harder and harder, loudly panting now. Feeling a bit high from your little transformation, you blow him a kiss. "Ah... Fuck!" Luis's moans echo through the drugstore as he starts shooting blasts of cum onto the counter. Wow. Did you do that just with your lips? A strange feeling washes over you, a mixture of power, excitement and... something else. Luis shudders as the last drops of cum spurt out of his dick. "Heh... I'm just gonna go... get a towel..." Luis stuffs his cock back into his pants and slinks off into the backroom.|Luis whistles. "Well, it's a start." You turn to glare at him, but freeze when you see him palming the outline of his cock through his jeans.}
         
@@ -360,7 +360,7 @@ Then you look down again and see the two bimbo girls hooked onto his arms. They'
 
 Cynthia notices your shift in mood and hugs you from behind. Her boobs pressing into your back don't really make you feel better. "Hey, don't worry! You're got plenty of time to turn into a curvy bimbo yourself! I bet guys are gonna be all over you in no time!"
 
-She probably says that to all the new girls. Still nice to hear, though. Cynthia looks at the guy you drooled over with a thoughtful expression for just a second. Then she turns back to you. "Hey, you must be hungry. Here, take this." She hands you a pink dollar bill. 20 Bimbobucks, according to the lettering on the corner of the paper. The picture in the middle is of an older woman with heavy makeup showing off her huge tits. Well, at least they're consistent.
+She probably says that to all the new girls. Still nice to hear, though. Cynthia looks at the guy you drooled over with a thoughtful expression for just a second. Then she turns back to you. "Hey, you must be hungry. Here, take this." She hands you a pink dollar bill. 20 Bimbucks, according to the lettering on the corner of the paper. The picture in the middle is of an older woman with heavy makeup showing off her huge tits. Well, at least they're consistent.
 
 "I gotta do something for a sec. How about you go get us some food?" She must see the trepidation on your face. "There's nothing bad in the food, {first_name}. Promise. Except... Well..."
 
@@ -368,11 +368,17 @@ Well? What's in the fucking food? "No, it's just, there's like a tiny trace amou
 
 Alright, pull yourself together, {first_name}. It's just food. You walk over to the food court. Which of these kiosks is gonna have the least horrible food?
 
-    * [Thick Meat.] Thick Meat sounds like it might have something filling, at least?
-    * [Cummy Yummy.]
+    * [Thick Meat.] (meat) Thick Meat sounds like it might have something filling, at least?
+        You walk over to the kiosk, where a buff, deeply tanned man has only barely managed to fit himself behind the small counter. He looks you up and down as you walk over. "New meat, huh? Bet you're hungry." You nod, intimidated by the guy's sheer size and gruff voice.
+        
+        "Let's see... How about I give you my Xtra Thick Sausage?" He must see your expression, if his bellowing laugh is anything to go by. "It's really a sausage. Sorry, couldn't help but yank yer tits for a second." Your eyebrows must be reaching your hairline at this point. He chuckles as he turns around to prepare your food. "Figure of speech."
+        
+        "Want fries with that?", he yells over his shoulder. You reply, but he already threw the fries into the fryer, so you're pretty sure you're getting them no matter what. 
+    * [Cummy Yummy.] (cum) You stare at the kiosk in apprehension. 
     * [Bouncy Buns.]
     * [Like, Food And Stuff.]
     * [Slutlicious.]
+    - You sit at the table closest to the kiosk and wait for your food
 
 -> DONE
 
