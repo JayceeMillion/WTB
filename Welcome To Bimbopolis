@@ -441,7 +441,38 @@ Alright, pull yourself together, {first_name}. It's just food. You walk over to 
         
         "You can wait for your order at a table." Startled, you look back up. Jee is glaring at you with a single eyebrow raised. "If you're done gawking at my work." You quietly apologize and stumble away from the counter.
 
-    - You sit at the table closest to the kiosk and wait for your food. 
+     - You sit at the table closest to the kiosk and wait for your food. Trying to ignore the glances sent your way, you look around the food court. There's a few petite girls in powder pink uniforms running around, taking food from the various counters and taking it over to people. They don't seem like they belong to any of the specific kiosks, so you figure the mall just hires them to work for all of them. You suppose there's not much of a competitive economy in Bimbopolis. These people could probably live their lives without money entirely, in one big community, but you imagine that making money in dubious ways is a major appeal here.
+        
+      Cynthia sits down on the seat opposite you right as a waitress puts down your food. "Have any trouble, sweetie?" You feel some of the tension leaving your body seeing your guide again. You're kinda worried now that you're getting too dependent on Cynthia already. You spend the next minute ensuring her that no, you didn't have any trouble and you definitely didn't embarrass yourself in front of a kiosk worker.
+      
+      "So, what're we eating?" Cynthia looks down at the tray.
+      { food_meat:
+        <> When she looks back at you, it's with a wide grin that has you feeling nervous all over again. "Someone craving some meat already?" Oh, haha. Her grin shifts into a smirk that you trust even less. "Well, let's dig in then, shall we?"
+      }
+      { food_cum:
+        <> Her eyes widen and her eyebrows shoot up. Oh no. She licks her lips as she looks up at you. "You did not ask what you were ordering, huh?" Yeah, you really should have. Cynthia grabs her ice cream cup and eats a scoop. "Well, better start eating before it melts!"
+      }
+      { food_buns:  
+        <> "Oh, this is gonna be fun." She grabs a cheeseburger. "Y'know, I thought my ass was looking perfect today, but I guess I could use a little more padding.", she says right before she chomps down on her burger. You hastily apologize. Of course someone like Cynthia wouldn't wanna eat a fatty burger. You really need to stop thinking with your comfort-eating stomach.
+            
+            Cynthia waves you off as she finishes her bite. "No, silly. Just eat your burger, you'll see what I mean." Okay, well that's just ominous.
+      }
+      { food_celery:
+        <> "Hmm..." You're not sure why Cynthia doesn't seem entirely pleased with your choice. This seems like the type of stuff she'd love, right? Cynthia looks up again, still looking pensive.
+        
+            "So, I'm kinda surprised to see you pick celery sticks for our meal." She tilts her head slightly. "Now, there's nothing wrong with them, they're actually quite delicious, but..." Cynthia pauses, seemingly unsure of what to say. "I just want you to know that you don't need to start eating like a rabbit or anything, you know? I promise you, this world does everything it can to rid us all of the societal pressures we felt before, and no one here is gonna judge you. We all know what that feels like."
+            
+            You hurry to tell Cynthia that you're not planning on starving yourself, and tell her about the enlightening conversation you had with the girl behind the counter. "Yeah, Annie's a sweetheart." Cynthia smiles. "I took her on this very same tour about four months ago. She's the only other person who ever went for the salad bar in all the time I've worked for the city. And now she works there. Go figure, right?" 
+            
+             "Anyway, let's fuckin' eat already!" She takes a bite of her celery stick, moaning as she chews the celery. "Mmm, I could get addicted to these if I wasn't already addicted to candy." Well, that's an endorsement if there ever was one. You gingerly take a tiny bite from the celery.
+      }
+      { food_ramen:
+        <> "Ooh, Oppai Ippudo! This is like my absolute favorite. Good choice!" You blush from the praise, trivial as it may be. Cynthia absentmindedly rubs her breasts, which are basically resting on the table, as she picks up her chopsticks. Then, she snaps back to alertness as she seems to realize something. "Oh, did Jee give you any trouble? He's not great with newbies."
+        
+            You mention that you did notice that. "I'm so sorry, sweetie. His attitude is so terrible. I swear, he'd get fired one day..." She looks over at the kiosk, where Jee is busy sketching something, and then back at you. "Well, it's just... It's so much fun to watch that attitude change the hotter you get." Cynthia giggles as she grabs the ramen with her chopsticks. "I know that sounds bad, but I promise you you'll understand." She loudly slurps up the ramen with an almost orgasmic moan. "I'll have you know I've eaten the Golden Sunrise Special twice without paying a single Bimbuck."
+      
+      }
+-> DONE
 
 -> DONE
 
