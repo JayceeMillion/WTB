@@ -446,16 +446,49 @@ Alright, pull yourself together, {first_name}. It's just food. You walk over to 
       Cynthia sits down on the seat opposite you right as a waitress puts down your food. "Have any trouble, sweetie?" You feel some of the tension leaving your body seeing your guide again. You're kinda worried now that you're getting too dependent on Cynthia already. You spend the next minute ensuring her that no, you didn't have any trouble and you definitely didn't embarrass yourself in front of a kiosk worker.
       
       "So, what're we eating?" Cynthia looks down at the tray.
-      { food_meat:
-        <> When she looks back at you, it's with a wide grin that has you feeling nervous all over again. "Someone craving some meat already?" Oh, haha. Her grin shifts into a smirk that you trust even less. "Well, let's dig in then, shall we?"
+   { food_meat:
+        <> When she looks back at you, it's with a wide grin that has you feeling nervous all over again. "Someone craving some meat already?" Oh, haha. Her grin shifts into a smirk that you trust even less. "And that wouldn't have anything to do with the beefcake behind the counter?"
+        
+           You could try denying it, but from the way your cheeks fill with heat you know you've already told Cynthia all she needs to know. What you will do is ask Cynthia about him. Specifically, how is he so huge? "Oh, do you think women get all the fun here? There's plenty of guys here who are turning themselves into sex gods as we speak. Including," Cynthia points over her shoulder at the Hot Meat kiosk. "Tristan. I've been enjoying watching him develop into the rippling beast of a man he is now." She cuts off a piece of the sausage. "Although Hot Meat's gonna have to do some construction work if he grows any more." You laugh along with Cynthia as you try to take your mind off of Tristan's giant body.
+           
+           You munch on the fries while Cynthia eats the sausage, but eventually the temptation (and Cynthia loudly moaning "IT'S SO JUICY!") becomes too much for you and you take a bite of the sausage. As you chew on the (admittedly very juicy) meat, you revel at how familiar this tastes. You feel like the flavor reminds you of something... Something like...
+           
+           A sudden flash of a memory hits you. You're on your knees. Your college boyfriend Steve is standing over you. His cock is out, right in front of your face. You're nervous, but you fight that anxiety down and lean forward. Stick out your tongue. Closer... Closer...
+           
+           You blink. Cynthia is staring at you, her excitement visible through the wide grin on her face. You stare back for a second before speaking up.
+           
+           "So you don't think you could have warned me about eating a sausage that literally tastes like dick?"
+           
+           Cynthia bursts out laughing, nearly choking on her fries. "Didn't wanna ruin the surprise! It's always fun to see how long it takes people to find out. You actually stuck your tongue out a bit." Cynthia mimics the movement the way a teenage girl would. "Thinking about someone in particular?"
+           
+           You're not sure you want to tell Cynthia about Steve. Not quite yet.
+           ~ cock_addiction = cock_addiction + 1
+           
       }
       { food_cum:
-        <> Her eyes widen and her eyebrows shoot up. Oh no. She licks her lips as she looks up at you. "You did not ask what you were ordering, huh?" Yeah, you really should have. Cynthia grabs her ice cream cup and eats a scoop. "Well, better start eating before it melts!"
+        <> Her eyes widen and her eyebrows shoot up. Oh no. She licks her lips as she looks up at you. "You did not ask what you were ordering, huh?" Uh oh. You admit that you were somewhat distracted by Moira.
+        
+            Cynthia smirks. "Yeah, she has that effect on people. She's an interesting one. And by that I mean she's kinky as fuck. God, I'm a cock-addicted whore and still, to this day, no one has dominated me quite as hard as she has." She then seems to realize what she said. "Anyway, I'm sure you don't wanna hear about all that..." Cynthia looks over to the Cummy Yummy kiosk. "But do keep her in mind if you're into that sorta thing." She winks. Well, you never know...
+        
+           Cynthia grabs her ice cream cup and eats a scoop. "Well, better start eating before it melts!" Without thinking, you grab your cup and eat a spoonful of ice cream. As it melts on your tongue, your face twists in suprise as you taste salt as well as sweetness. It's not an altogether bad flavor, but you struggle to place it until you've swallowed and see Cynthia staring at you expectantly.
+           
+           It's cum. Of course it's cum. You were a dumbass and ignored obvious signs and now you ate cum.
+           
+           "So, how'd you like that Semen Sundae?" Cynthia looks at you expectantly as she continues to lick her ice cream. Mental note: always check out the menu extensively. You stammer out that you didn't know, to Cynthia's obvious protests. "What, are you blind? You should've told me that you were blind, I would've changed the tour! Do you need one of those sticks? A guide dog?" You bury your face in your hands as Cynthia spends the next minute or so roasting you with a mouth full of jizz ice cream.
+           
+           Once she's decided you've had enough abuse, Cynthia puts her mostly empty cup down. "But anyway, you didn't answer my question. Did you like it?"
+         
+           You've never liked the taste of cum, but as your sluttiest friend once said, "It's an acquired taste". For what it's worth, you didn't mind it as much in the ice cream. Cynthia smiles knowingly. "Well, maybe you should come back a few times and 'acquire that taste', then."
+           ~ cum_addiction = cum_addiction + 1
       }
       { food_buns:  
         <> "Oh, this is gonna be fun." She grabs a cheeseburger. "Y'know, I thought my ass was looking perfect today, but I guess I could use a little more padding.", she says right before she chomps down on her burger. You hastily apologize. Of course someone like Cynthia wouldn't wanna eat a fatty burger. You really need to stop thinking with your comfort-eating stomach.
             
-            Cynthia waves you off as she finishes her bite. "No, silly. Just eat your burger, you'll see what I mean." Okay, well that's just ominous.
+            Cynthia waves you off as she finishes her bite. "No, silly. Just eat your burger, you'll see what I mean." Okay, well that's just ominous. You take a bite out of the burger. Oh. Wow, that's good. Sure, it's greasy, but the meaty flavor explodes into your mouth, and it's so... So... Juicy...
+            
+            With every bite you swallow, you start shifting more uncomfortably in your seat. By the time you're done with your burger, you distinctly feel like something is wrong, but it takes you a second to figure out what.
+            
+            {tour_hospital.tour_butt: But once you do, it's both blatantly obvious and slightly panic-inducing. Your already bigger butt just grew a little bit more, causing your jeans to burst at the seams. You're scared to move.|} //something goes here//
       }
       { food_celery:
         <> "Hmm..." You're not sure why Cynthia doesn't seem entirely pleased with your choice. This seems like the type of stuff she'd love, right? Cynthia looks up again, still looking pensive.
@@ -474,8 +507,6 @@ Alright, pull yourself together, {first_name}. It's just food. You walk over to 
       }
 -> DONE
 
--> DONE
-
 
 === tour_end ===
 Looking up at the sky, you can tell the sun is starting to go down. You're suddenly overcome by a vision of home. How late is it there? It was already dark in your world by the time you got here. You wonder if people noticed you were missing. If anyone is looking for you. You doubt it. 
@@ -489,6 +520,9 @@ Looking up at the sky, you can tell the sun is starting to go down. You're sudde
 
 LIST guard_talked_to = Norman, Arwin
 
+
+VAR cock_addiction = 0
+VAR cum_addiction = 0
 VAR first_name = "Danielle"
 VAR last_name = "Grey"                   
 VAR hair_color = "brown"
