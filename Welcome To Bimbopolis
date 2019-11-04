@@ -513,6 +513,7 @@ Alright, pull yourself together, {first_name}. It's just food. You walk over to 
              After doing your internal eyeroll that you do whenever someone in perfect shape says they need to lose a few, you take a second to discreetly check out your own body. You smooth over your sweater with your hand, hoping it looks natural, and notice that you do feel ever so slightly thinner. You look up at Cynthia and know instantly from the look on her face that you weren't being as discreet as you hoped.
              
              "You'll look just like all those supermodels you envied all your life in no time. If that's what you want, of course.", she says before chomping down on her last stick with her perfect teeth. You think about it for a bit. It would be nice to know how it feels to be that thin and... desirable, you guess. But on the other hand, Cynthia herself is curvier than that, and she looks amazing and like she isn't one missed meal away from starvation, so that's good too.
+             ~ body_size = body_size - 1
       }
       { food_ramen:
         <> "Ooh, Oppai Ippudo! This is like my absolute favorite. Good choice!" You blush from the praise, trivial as it may be. Cynthia absentmindedly rubs her breasts, which are basically resting on the table, as she picks up her chopsticks. Then, she snaps back to alertness as she seems to realize something. "Oh, did Jee give you any trouble? He's not great with newbies."
@@ -523,8 +524,8 @@ Alright, pull yourself together, {first_name}. It's just food. You walk over to 
             
             "So, are you gonna eat or what?" You snap out of your train of thought. Cynthia is staring at you. You blush and grab your chopsticks. As you start slurping on your ramen, you notice a flavor you can't quite make out. You finish your entire bowl quickly, never figuring out what the special ingredient you're tasting is.
             
-            What you can detect, however, is a {tour_hospital.tour_tits:familiar|weird} sensation in your chest. {tour_hospital.tour_tits: Oh shit. Not again. You softly moan as your breasts start growing. Luckily, they stop growing a lot faster than they did in the drugstore. Your sweater is safe, it seems. Regardless, you take a second to get used to your ever so slightly bigger boobs. |You can't quite describe the feeling, it's a bit like when one of your limbs falls asleep, but less annoying? The sensation subsides after about five seconds, and when it's gone, all that's left is a slightly tighter sweater. You actually spend a second thinking the ramen shrunk your sweater before realizing that it grew your breasts. Your eyes widen and you look over at Cynthia, who's grinning at your face journey. You resist the temptation to look down your sweater. You'll wait until you're alone.}
-      
+            What you can detect, however, is a {tour_hospital.tour_tits:familiar|weird} sensation in your chest. {tour_hospital.tour_tits: Oh shit. Not again. You softly moan as your breasts start growing. Luckily, they stop growing a lot faster than they did in the drugstore. Your sweater is safe, it seems. Regardless, you take a second to get used to your ever so slightly bigger boobs. You resist the temptation to look down your sweater. You'll wait until you're alone.|You can't quite describe the feeling, it's a bit like when one of your limbs falls asleep, but less annoying? The sensation subsides after about five seconds, and when it's gone, all that's left is a slightly tighter sweater. You actually spend a second thinking the ramen shrunk your sweater before realizing that it grew your breasts. Your eyes widen and you look over at Cynthia, who's grinning at your face journey. You resist the temptation to look down your sweater. You'll wait until you're alone.}
+            ~ breast_size = breast_size + 1
       }
       
      With your plates finished, Cynthia jumps up from her seat! "Alright! More touring time!"
@@ -532,8 +533,42 @@ Alright, pull yourself together, {first_name}. It's just food. You walk over to 
      You take a moment to just sit and process your latest experience with Bimbopolis. 
       {food_meat: <> If all the food here is gonna remind you of your ex-boyfriend, you might not eat ever again. Although, at least your memories focused on the one part of him you do miss...}
       {food_cum: <> Before you came here, you figured you could go your entire life without eating cum. Well, here you are. Now you're worried that you're gonna find in all the other food here. You're gonna have to read the ingredients for everything. Make sure there's no fucking breast milk or processed tiger penis in it.}
-      {food_buns: <> To be honest, you're kind of afraid to get up in the first place. Your jeans are uncomfortably tight already, and you worry that the wrong movement will cause them to tear entirely. For some reason you don't feel like walking around Bimbopolis with }
+      {food_buns: <> To be honest, you're kind of afraid to get up in the first place. Your jeans are uncomfortably tight already, and you worry that the wrong movement will cause them to tear entirely. For some reason you don't feel like walking around Bimbopolis with your goofy underwear exposed. Although at least you'd fit in more.}
+      {food_celery: <> All your life, you've been taught to judge bimbos. They're superficial, dumb, fake, and they're an unrealistic expectation for women to achieve. But at the same time, you've been judged for having small boobs, pale skin, not having an hourglass figure... Now you can actually change all that. With pink celery.}
+      {food_ramen: <> You liked ramen enough before it grew your boobs. You've considered eating your way into getting a bigger bust before, but you never wanted to sacrifice your health, which is also what kept you from getting implants. Well, that and money. Speaking of money, you're gonna need to make quite a lot if you ever want a taste of that Golden Sunrise Special. Or you have to impress Jee, you guess.}
+      
+     "Kay, listen {first_name}, we've had some girls who took one good look at this city and ran for the hills, but at least they moved." You jump up with a start. {tour_hospital.tour_butt and food_buns: -> tour_rip ->|Cynthia's already turned around and ready to go. You scurry along as she heads towards the escalators.} 
+     
+     As you walk at a brisk pace, you can't help but let your curiosity get the better of you. "Hey Cynthia?"
+     
+     She slightly turns her head to indicate that she's listening. "When you said there were girls who ran..." You can barely see it from where you're walking beside her, but something changes in Cynthia's eyes. She sighs as you both get on the escalator.
+     
+     "I can promise you that Bimbopolis is a happier, more caring, more accepting place than anywhere in the real world. Some of the girls don't see it that way. I don't blame them... I mean, I know that it's a lot to take in, and it can be daunting to look different than everyone else, but... I worry for them, y'know?" Cynthia looks a bit upset. You get the sense that she probably cared a lot for those girls, even in the small time she knew them. "They just leave, and as far as we know there's nothing outside of the gates but forests and plains. We have no idea where they are." 
+     
+     Cynthia's so lost in thought she almost trips at the top of the escalator. As you reach the top as well, she dusts herself off and steps aside. "Well, we can talk about that more later. We have some more touring to do!" 
+     
+     It's amazing how quickly she can turn her mood around like it's a switch. Or she's just faking it. You suppose that's a skill she'd need to have for her job. You follow Cynthia and look around. Whereas there was a variety of stores on the first floor, the second floor seems to focus on clothing stores. The mannequins have you blushing. You're amazed at what is clearly considered the standard size here, to say nothing of the little clothing actually on the mannequin.
+     
+     Cynthia stops at a store that at least looks somewhat similar to a normal fashion boutique. 
+     
+     
+        = tour_rip
+        ~ bottom_torn = true
+        The second you hear the unmistakable sound of tearing, the sound of what may be your worst fucking nightmare, you know that you fucked up. You turn comically slowly to confirm that yes, you did in fact tear through your pants. You really regret wearing your Spongebob underwear today.
+        
+        Cynthia gasps, adding to your mounting horror as you look around you. You expect everyone to be laughing at you, like some scene in a high school movie that establishes who the school loser is. Ergo, you. But aside from a few chuckles sounding throughout the food court and a thumbs up and a grin coming from a guy in the corner, no one seems to give much of a fuck about your little accident.
+        
+        Cynthia giggles, a sound you're getting a little too familiar with, as she checks out the damage. "I know you probably feel embarrassed right now, but ripping your clothes in awkward places is basically a rite of passage in Bimbopolis." That does make you feel a little less humiliated, but you bet no one here decided to forgo the slutty lingerie for Spongebob's face on their butt the day they had their wardrobe malfunction. God, you're such a dweeb. "Trust me, there's gonna be a day when you're happy if you manage to ruin your clothes."
+        
+        You try to hide the tear, but it's pretty much the entire seat of your pants. You'll have to come to terms with the fact that they're as ruined as they can get. "Listen, just keep the pants on for now, sweetie. We'll get them replaced later." With that, Cynthia is already walking off like nothing special even happened, leaving you with no choice but to do the same. ->->
+        
+        
+     
+     
+     
 -> DONE
+
+
 
 
 === tour_end ===
@@ -548,16 +583,24 @@ Looking up at the sky, you can tell the sun is starting to go down. You're sudde
 
 LIST guard_talked_to = Norman, Arwin
 
-
 VAR cock_addiction = 0
 VAR cum_addiction = 0
+
 VAR first_name = "Danielle"
-VAR last_name = "Grey"                   
+VAR last_name = "Grey"
+
 VAR hair_color = "brown"
 VAR hair_length = 30
 VAR skin_color = "pale"
 VAR breast_size = 0
 VAR butt_size = 0
+VAR body_size = 50
 VAR lip_size = 0
-VAR bsq = 0
+
 VAR luis_relationship = 0
+
+VAR top_torn = false
+VAR bottom_torn = false
+VAR underwear_torn = false
+
+VAR bsq = 0
