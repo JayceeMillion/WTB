@@ -105,7 +105,7 @@ You take a breath. No other way to go but forward. Unimaginable things lie beyon
 * Let's fucking go already! # CLEAR
 
 You enter a small room. The only things inside it are a water cooler (with pink water, what the fuck is up with that?), a fake plant and a reception desk. Behind that desk, a woman is... bouncing up and down on her chair.
-{guard_talked_to ? Arwin: Huh. Tits the size of basketballs. Arwin was right.} The woman is tanned, with beachy blonde hair in a bun and huge lips. From what you can see behind the desk, she's wearing a tight pink button-top that is mostly unbuttoned because her giant boobs wouldn't fit otherwise. You wonder whether her librarian-style glasses are actually prescription. 
+{guard_talked_to ? Arwin: Huh. Tits the size of basketballs. Arwin was right.} The woman is tanned, with beachy blonde hair in a bun and huge lips. From what you can see behind the desk, she's wearing a tight pink button-up top that is mostly unbuttoned because her giant boobs wouldn't fit otherwise. You wonder whether her librarian-style glasses are actually prescription. 
 The woman notices you and stops bouncing. "Oh my! A new girl!" She gestures you over. 
 "Hey sweetie! My name's Cynthia. Welcome to Bimbopolis! My job here is to show newcomers like you around, but first we have to get you registrated!" She grabs a document from a drawer and pulls a pen out of her bun. 
 
@@ -565,9 +565,36 @@ Alright, pull yourself together, {first_name}. It's just food. You walk over to 
      
      Cynthia walks over to stand to your right, essentially sandwiching you in between the two bimbos. You try not to feel too self-conscious about your breasts compared to their massive plastic chest bags. Cynthia takes the lollipop out of her mouth with a loud pop. You realize that you've been distantly hearing that noise repeatedly as you were hauled around Bimbopolis. "See anything you wouldn't hate wearing?" She scans over the racks, slightly scrunching up her face. You imagine she wouldn't be caught dead with any of these clothes on for quite opposite reasons to you.
      
-     You look back at Cynthia. "I don't have any money though..." Cynthia smiles at you warmly. "Don't worry. The Bimbopolis City Council has you covered for any expense you might need to get settled, so there are already some clothes at your apartment. This is just a little present from me." Cynthia pulls out her wallet, presenting more pink bills. This time, she gives you a 100 Bimbuck bill, which has a beautiful blonde goddess posing in nothing more than heels. You thank Cynthia for her generosity and turn to the clothesracks.
+     You look back at Cynthia. "I don't have any money though..." Cynthia smiles at you warmly. "Don't worry. The Bimbopolis City Council has you covered for any expense you might need to get settled, so there are already some clothes at your apartment. This is just a little present from me." Cynthia pulls out her wallet, presenting more pink bills. This time, she gives you a 100 Bimbuck bill, which has a beautiful blonde goddess posing in nothing more than heels. You abashedly thank Cynthia for her generosity and turn to the clothesracks.
      
-     So what will you buy?
+     You decide to choose a top first. Among the items of clothing you could actually see yourself in without dying of shame are a light pink shirt with a cute cartoon bunny on it, a simple white button-up shirt and a purple wrap top. You suppose that you should probably get one of those.
+     
+     
+     So what will you buy? //whichever clothes are chosen go in the inventory
+        
+        * [Pink bunny shirt.] You take the pink shirt off the rack and inspect it. It's a fairly basic t-shirt in a bright pink color with a depiction of an adorable little white bunny in a field. It's infantilizing to say the least, but you can deal with that as long as your boobs aren't exposed.
+        
+            "Gotta say, I'm a bit surprised, {first_name}. I would've thought that you'd consider yourself too sophisticated for this kind of shirt." Cynthia looks at the print with a raised eyebrow. You snort. You may be wearing a relatively dignified sweater now, but this sort of cheap shirt is exactly what you'd put on at home if you didn't have shit to do that day and could just waste your life on the couch watching TV. In a weird way, it reminds you of home.
+        
+        * [White button up shirt.] You take the white button-up shirt off the rack and inspect it. It's a simple white office appropriate shirt with white buttons and long sleeves. It's downright professional, which is not something you expected to see here. Then you look over at Cynthia and realize that most girls here would just leave most of the buttons undone.
+        
+            "That's what I picked when I got here!" Cynthia claps excitedly, bouncing up and down in a way that makes her boobs jiggle up and down. "Coming here from a high-pressure job in the business sector, I went for the comfort of a nice button-up. Took me a while to acquire new tastes!" You cannot resist the overwhelming urge to mention that she's literally still wearing a button-up and pencil skirt. Cynthia looks down. You wonder if she can see much besides her boobs. "Well, I found my way back into admin, so I like to dress the part." She smooths over the fabric. "Although a Casual Friday would be fun." Looking around at the rest of the store, you can only imagine what's considered 'casual' here.
+        
+        * [Purple wrap top.] You take the purple wrap top off the rack and inspect it. It's a soft long-sleeved shirt with a traditional right-over-left wrap design. If you were to be specific about the color, it's an aubergine shade of purple. Although it's not a crop top, it's still slightly shorter than you'd typically wear, and you're not always the biggest fan of any top showing cleavage since you have very little of that, but it's a lot more decent than most of the clothes here.
+        
+            "Ooh, I like that one!" Cynthia grabs the sleeve of the shirt, feeling how soft it is. You take that opportunity to focus on her long hot pink acrylic nails. How she manages to type with those is a mystery to you. Maybe one day you will learn her secret techniques and finally master the Art of Bimbo. 
+            
+            Wait. What were you talking about? Oh right, the shirt. Thankfully, Cynthia didn't notice you spacing out, still going on about the wrap top. "You know, it's fun to be an all out trashy bimbo and all, but people don't appreciate some of the subtle ways you can dress like a bimbo without all of the holes and sheer fabric and all that. Wrap tops are popular with beginning bimbos and bimbo fans, probably because guys like the thought of just grabbing the fabric and unwrapping their date until they're completely naked!" You stare at the top, completely reconsidering your choice. Still not noticing anything out of the ordinary, Cynthia continues chatting away. "Of course, this top is just sewn to make it look like it's a real wrap top, but it's the thought that counts.
+            
+    - Judith the sales clerk makes what you assume is an approving hum. "Excellent choice, miss. Shall we move on to the bottoms now?" You agree, still trying to avoid directly looking at her lingerie-clad body. Scanning the options you have, the least salacious of them appear to be a black and white polka dot skirt, a pair of high-waisted jeans and a magenta pencil skirt.
+    
+    Which will you choose?
+    
+        * [Polka dot skirt.]
+        * [High-waisted jeans.]
+        * [Magenta pencil skirt.]
+    
+    
      
      
      
@@ -625,12 +652,31 @@ VAR underwear_torn = false
 VAR bsq = 0
 
 // Notes on Boobtique:
-// Tier 1 (Forever 18):
+// Tier 1 (Forever 18): purple wrap top, blue high-waisted jeans, polka dot skirt, pink bunny shirt, white button-up shirt, magenta pencil skirt
 // Tier 2 (Bimberry):
 // Tier 3 (Abercummy & Bitch):
 // Tier 4 (Lacocce):
 // Tier 5 (Diwhore):
-// Tier 6 (Balenciagash):
+// Tier 6 (Balenciagash): black mesh jumpsuit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
