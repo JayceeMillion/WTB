@@ -545,11 +545,30 @@ Alright, pull yourself together, {first_name}. It's just food. You walk over to 
      
      "I can promise you that Bimbopolis is a happier, more caring, more accepting place than anywhere in the real world. Some of the girls don't see it that way. I don't blame them... I mean, I know that it's a lot to take in, and it can be daunting to look different than everyone else, but... I worry for them, y'know?" Cynthia looks a bit upset. You get the sense that she probably cared a lot for those girls, even in the small time she knew them. "They just leave, and as far as we know there's nothing outside of the gates but forests and plains. We have no idea where they are." 
      
-     Cynthia's so lost in thought she almost trips at the top of the escalator. As you reach the top as well, she dusts herself off and steps aside. "Well, we can talk about that more later. We have some more touring to do!" 
+     Cynthia's so lost in thought she almost trips at the top of the escalator. As you reach the top as well, she dusts herself off and steps aside. She reaches in between her boobs and pulls out a lollipop. "Well, we can talk about that more later. We have some more touring to do!" Lollipop in mouth, Cynthia zips away again, heels clicking on the tiles.
      
      It's amazing how quickly she can turn her mood around like it's a switch. Or she's just faking it. You suppose that's a skill she'd need to have for her job. You follow Cynthia and look around. Whereas there was a variety of stores on the first floor, the second floor seems to focus on clothing stores. The mannequins have you blushing. You're amazed at what is clearly considered the standard size here, to say nothing of the little clothing actually on the mannequin.
      
-     Cynthia stops at a store that at least looks somewhat similar to a normal fashion boutique. 
+     Cynthia stops at a store that at least looks somewhat similar to a normal fashion boutique. {bottom_torn == true: "Let's get you out of those shredded jeans and into something a little more fashionable. Or maybe not." Cynthia exaggeratedly pretends to be deep in thought. "Going bottomless happens to be in fashion right now." You can't protest fast enough. People here may be fine letting their ass hang out, but you're not gonna subject yourself to that any longer.} "I'm sure you've noticed, but this floor is the fashion district. Thought you'd like to take a look around!" You're not sure that you do. You've passed several stores already, and everything you've seen on the mannequins so far shows more skin than that one cocktail dress you used to own that shrunk in the wash. 
+     
+     Well, that's not entirely true. There was a skintight latex bodysuit.
+     
+     You enter the store. Immediately, a sales clerk comes rushing over. She's slightly shorter than you, with vivid burgundy hair tied up in a big bun. The flash of color distracts you, making you take a second to notice her outfit. It's a typical skirt and blouse, but with holes cut out to lewdly expose her lacy black lingerie. Her big, obviously fake boobs are poking out of the hole in her top. You blush and look literally anywhere else.
+     
+     "Looking good, Judith!" Cynthia runs over to hug the scantily dressed worker. You can't stop yourself from peeking over and seeing the obscene way their plastic boobs press against each other. You also notice that they can barely wrap their arms around each other. Too much in the way. You imagine that this is a regular problem.
+     
+     Cynthia turns back to you. "Welcome to the Boobtique! This is the most versatile clothing boutique in Bimbopolis, with six different clothing brands within one store!" You look around. The store is clearly separated into six sections, each with different clothes. The section to the right of you makes the color drain from your face. Every article of clothing in there is even more exposed than the outfit Judith the saleswoman is wearing. Is it a crop top if it ends directly below the armpit? Can you even call it a skirt if it's maybe 3 inches of fabric?
+     
+     Judith sees your apprehension and sidles up to you. "That's right! We stock a variety of quality bimbo couture sure to satisfy your unique style needs! Now, we at Boobtique know that it can be difficult adjusting to the Bimbopolis way of life, which is why," she gently moves you over to a different section to the store, "we also sell the Forever 18 brand, specifically designed for relative modesty as you get used to the city." You browse the racks in front of you, trying not to look at the rack heaving next to you. While you still wouldn't buy any of these clothes back home, at least they cover your body. {bottom_torn == true: More than you can say of your pants right now.}
+     
+     You think you'll pass on the super-tight leather pants and the tanktop that, while not insanely obscene, does have the words "BABY BIMBO" printed on it. But to your relief, there's some shirts, pants and dresses that a prostitute probably wouldn't consider work clothing. There's even a hoodie in the mix, and it's even longer than usual. Oh, wait. That's a hoodie dress. Well, still pretty cute.
+     
+     Cynthia walks over to stand to your right, essentially sandwiching you in between the two bimbos. You try not to feel too self-conscious about your breasts compared to their massive plastic chest bags. Cynthia takes the lollipop out of her mouth with a loud pop. You realize that you've been distantly hearing that noise repeatedly as you were hauled around Bimbopolis. "See anything you wouldn't hate wearing?" She scans over the racks, slightly scrunching up her face. You imagine she wouldn't be caught dead with any of these clothes on for quite opposite reasons to you.
+     
+     You look back at Cynthia. "I don't have any money though..." Cynthia smiles at you warmly. "Don't worry. The Bimbopolis City Council has you covered for any expense you might need to get settled, so there are already some clothes at your apartment. This is just a little present from me." Cynthia pulls out her wallet, presenting more pink bills. This time, she gives you a 100 Bimbuck bill, which has a beautiful blonde goddess posing in nothing more than heels. You thank Cynthia for her generosity and turn to the clothesracks.
+     
+     So what will you buy?
+     
      
      
         = tour_rip
@@ -604,3 +623,37 @@ VAR bottom_torn = false
 VAR underwear_torn = false
 
 VAR bsq = 0
+
+// Notes on Boobtique:
+// Tier 1 (Forever 18):
+// Tier 2 (Bimberry):
+// Tier 3 (Abercummy & Bitch):
+// Tier 4 (Lacocce):
+// Tier 5 (Diwhore):
+// Tier 6 (Balenciagash):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
