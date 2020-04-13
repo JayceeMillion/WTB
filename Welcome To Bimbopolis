@@ -69,9 +69,11 @@ The other guard groans. "For cunt's sake, stop being such a dolt and talk to the
         = guard_explanation_2               
         "Okay!" The young guard clears his throat.
     
-        "Welcome to the amazing city of Bimbopolis!", he bombastically exclaims. The older guard rolls his eyes. "Really, kid?"
+        "Welcome to the amazing city of Bimbopolis!", he bombastically exclaims. 
+        
+        The older guard rolls his eyes. "Really, kid?"
     
-        "Just let me do this, dude!" The two guards quibble for a bit. You take the time to take a good look at Arwin. He's a tall, decently built young man, probably in his early twenties. His short auburn hair is charmingly messy, which contrasts with the bulge in his pants. Hmm. Maybe stop staring at that now. You look back up at the young guard, who's grinning at you. 
+        "Just let me do this, dude!" The two guards quibble for a bit. You take the time to take a good look at Arwin. He's a tall, decently built young man, probably in his early twenties. His short auburn hair is charmingly messy, which contrasts with the huge bulge in his pants. Hmm. Maybe stop staring at that now. You look back up at the young guard, who's grinning at you. 
     
         "Like what you see?" You blush. Arwin grabs his crotch and gives it a squeeze. "I think you're gonna fit in just fine here."
     
@@ -638,17 +640,20 @@ Alright, pull yourself together, {first_name}. It's just food. You walk over to 
      
      "Oh, that's just something Boobtique implemented a few years ago! See, the sales director decided that just putting lingerie on mannequins was so impersonal. He figured that the employees could model the pieces to help sell as much underwear as they could. They need to compete with Victor's Enigma, of course." You did notice that store on the same floor as Boobtique. You can guess what they sell. "So anyway, just having the employees walking around in their underwear wasn't practical, so the cutouts were designed to have the best of both worlds!" Cynthia sighs in contentment. "Honestly, it's ingenuity like that that makes me love living in Bimbopolis."
      
-     That's not exactly how you felt about it.
+     Ingenuity. Sure. That's a word for it.
      
+     It seems thay Cynthia is leading you back outside, so you just hurry after the sound of her clicking heels in a daze. You've been in this mall for several hours, and the flashiness and constant eroticism still overwhelms you. Everywhere you look there's bright pinks and yellows, basically all the advertisements are straight up porn, most of the official uniforms would get people arrested back home, and even the songs on the radio are basically all moans and groans. In your normal life, you constantly struggled with the effects of the nonstop objectification of women. Could you really get used to that becoming an even more dominant part of your life? Could you just stop wanting to be respected?
      
+     You consider being one of those girls who made a run for it. Surely they didn't just die outside of the gates. Maybe there's a whole community of normal women out there who are completely free from any societal pressure. Growing hair wherever the hell they want.
      
+     It's only when Cynthia flicks you in the nose that you realize she'd stopped walking and you're already outside. She's looking at you with some concern now. "Are you gonna have a seizure or something?" She waves her hand in front of your face. The thought flashes your mind that those nails are so inconvenient.
      
+     But you also remember that Cynthia is just trying to help you. She's probably guided many girls through the city, and you know that she just wants you to have as easy a time as possible adjusting to this strange new world. You're sure she doesn't like thinking about what happened to the girls who did leave, and you don't want to add to her stress. And besides, what are you gonna do outside of the walls? Fat chance you'd be able to make it home, you don't even know where that portal spat you out. Is this in America? You have no idea.
      
+     You assure Cynthia that you're fine. She seems entirely not convinced, but she moves on anyway.
      
-     
-     
-     
-     
+     {tour_hospital: -> tour_end|"Alright, so now we'll go to the FuckDoll Industries square! And let me tell you, that is where the magic truly happens!" You shudder to think what's going to happen there if this is the boring part. But Cynthia's already off, so you just try to hurry after her. -> tour_hospital}
+    
         = tour_rip
         ~ bottom_torn = true
         The second you hear the unmistakable sound of tearing, the sound of what may be your worst fucking nightmare, you know that you fucked up. You turn comically slowly to confirm that yes, you did in fact tear through your pants. You really regret wearing your Spongebob underwear today.
@@ -659,17 +664,29 @@ Alright, pull yourself together, {first_name}. It's just food. You walk over to 
         
         You try to hide the tear, but it's pretty much the entire seat of your pants. You'll have to come to terms with the fact that they're as ruined as they can get. "Listen, just keep the pants on for now, sweetie. We'll get them replaced later." With that, Cynthia is already walking off like nothing special even happened, leaving you with no choice but to do the same. ->->
         
-        
-     
-     
-     
--> DONE
+
 
 
 
 
 === tour_end ===
-Looking up at the sky, you can tell the sun is starting to go down. You're suddenly overcome by a vision of home. How late is it there? It was already dark in your world by the time you got here. You wonder if people noticed you were missing. If anyone is looking for you. You doubt it. 
+Looking up at the sky, you can tell the sun is starting to go down. You're suddenly overcome by a vision of home. How late is it there? It was already dark in your world by the time you got here. You wonder if people noticed you were missing. If anyone is looking for you. You doubt it.
+
+Cynthia, who has been chatting away about something or other (you think you heard the words "sparkle" and "clam" and you sorta zoned out after that), notices you staring up and stops walking. It's suddenly a lot quieter without Cynthia's heels clicking on the cobblestone. "Penny for your thoughts?", she says. "Just kidding. We don't have pennies. Waste of wallet space."
+
+You don't really know how to describe how you're feeling right now. There's still a lot of anxiety, as there would be when you get thrown into a new world with zero warning. You're definitely still working through some indignation at all of this that you know damn well no one is going to care about. You feel a bit like you're back in high school, where you constantly felt judged and you were never cool enough.
+
+And you're worried. You had a life back home. It wasn't much, but you're still leaving things behind. You left behind your family, and even though you haven't been calling much lately you still feel sick thinking about the fact that you may never see them again. And what about your friends? You may not have had many, but you still miss them, and you don't even want to think about what they'll think happened to you. And... well... you have plants... they're gonna die without you...
+
+Alright. Maybe there wasn't that much to your life back home. Will your friends really look for you? Or will they just assume you had a mental breakdown and left? Thinking about it, will it really be that hard for them to move on with their life? Will everything just move on without you?
+
+...
+
+You tell Cynthia that everything's fine. You're lying, she knows it, but she won't mention it. She looks you int he eyes, perhaps not with understanding, but with sympathy nevertheless. "Well, I know what might make you feel better. Follow me!"
+
+* You'll welcome a distraction. [] #CLEAR
+
+
 
 ->DONE
 
@@ -709,7 +726,6 @@ VAR bsq = 0
 // Tier 4 (Lacocce):
 // Tier 5 (Diwhore):
 // Tier 6 (Balenciagash): black mesh jumpsuit
-
 
 
 
