@@ -720,6 +720,44 @@ She turns and leans back on the railing with her elbows. "Listen, sweetie, every
 
 Cynthia pushes a few stray hairs from her face and turns back to lean over the railing, resting her elbows on the wood. She glances at you from her peripheral vision without saying anything, and you get the hint that you should join her. Looking out over the pond, you can see the orange glow of the sun setting between the pink buildings.
 
+"Like... You took the pill. You accepted the bra." Cynthia gestures down to your plastic bag. "You could have said no to both of them. If you don't wanna take pills, no one's gonna make you." Cynthia stares off in a specific direction, to your right. "Except for some creeps, but those are easy enough to avoid. If you want to." Cynthia looked over and winked. Kay. Weird. "Hell, if you don't want the bra, I'll take it. I usually end up leaving bras around all over the damn city anyway."
+
+Now that you know you have options, what is it you truly want? You know there is a repressed part of you that loves bimbos, but in what way?
+
+ * (tour_bimbo_me) [I want to be one.] Cynthia's right. When you think about bimbos, you think about your shapeless body, your tiny tits, your flat ass, and you just think about how amazing it would be to have inflated bimbo boobs, a huge round ass, a perfect hourglass shape... How it would feel as you touched your enhanced body...
+ * (tour_bimbo_them) [I want to fuck them.] No, when you think about bimbos, it's not at all what Cynthia thinks. You love their massive fake tits, their juicy enhanced asses, their platinum blonde hair... You've never even met one in real life, but it's been a secret dream of yours to have sex with one of them. You can only imagine how sweet their pussy would taste...
+ 
+ - You need to stop fantasizing, or you'll ruin your panties. You tell Cynthia what you like about bimbos.
+ 
+ {tour_bimbo_me:
+ <> "See!" Cynthia perks up, making her boobs bounce as she straightens up. You really are jealous of her beautiful globes. If you had boobs like that, maybe boys would actually pay attention to you. The thought brings you some shame (you still can't think of yourself as an object, as normal as it may be here), but also some excitement. You think you can admit that now.
+ 
+ ~ bimbo_love = 5
+ }
+{tour_bimbo_them:
+ <> "Hmm." Cynthia purses her lips, and you feel like you've done something wrong. "Guess I was wrong, then. I can't believe my Bimbodar is faulty!" She pouts with her beestung lips. You can't help but stare a little. What would it be like to kiss a bimbo? You want to find out.
+ 
+    Cynthia points at your bag. "Well, I'll gladly take the bra." Cynthia takes the bra out and holds it in front of her boobs. "Isn't it cute?" You're not even remotely looking at the bra. Cynthia puts the bra back in the plastic bag and takes it. "If you ever change your mind, it's all yours. If some guy hasn't taken it as a souvenir yet."
+ 
+ ~ bimbo_love = 0
+ }
+ 
+ Cynthia checks the silver watch around her wrist. "Uh, we should probably hurry and get to your new apartment before it's completely dark out." The two of you walk across the bridge as the sun continues to set.
+ 
+ You remain silent as you steadily stroll along the path in front of you. Suddenly, Cynthia holds her arm out in front of you. "You... might wanna look away..." Of course, your immediate instinct is to look around to see what she means, which is when you spot it. The bench ahead of you is occupied by a man, casually leaning back with his pants zipped down and his hard penis fully exposed.
+ 
+ You're frozen in place. You can tell now that this isn't even the only guy to be doing this. The next couple benches are all occupied by exposed men. Some of them are leisurely stroking their cocks while looking out over the pond. The guy you spotted first leers at Cynthia. "Hey juicy, I know you want a taste of this!" He waggles his junk around.
+ 
+ Cynthia scoffs, sounding frustrated. "Ugh, Jeff! Not now, kay? I have a new girl!" Jeff has the decency to look sort of guilty, although he doesn't put his dick away. Cynthia takes your hand and leads you forward, pacing quickly past the benches. As you walk past Jeff, she turns and gives him a "call me" sign.
+ 
+ "Sorry about this, sweetie," Cynthia says as she drags you along. "Some of these guys just finished a long day at work and this is a pretty common way to unwind for them." You can't help but look over once when you notice a bimbo girl on her knees in front of one of the guys, bobbing her head rapidly up and down. Cynthia notices too and speeds up more. "Some of us- I mean, some of the women enjoy it too."
+ 
+ You're almost past the row of benches when you hear a wolf whistle. Despite your mind telling you to keep walking, you can't stop yourself from craning your neck to look back. The man on the last bench is staring right at you, palming his cock. "Hey, new girl! Come suck my cock!" He thrusts his cock forward, showing you its ample size. You gasp at his obscenity.
+ 
+ Luckily, Cynthia is practically powerwalking now to get you away from the lusty parade behind you, so all you still have time to do is stick out your hand and...
+ 
+ * [Wave.]
+ * [Flip him off.]
 
 ->DONE
 
@@ -743,6 +781,7 @@ VAR breast_size = 0
 VAR butt_size = 0
 VAR body_size = 50
 VAR lip_size = 0
+VAR bimbo_love = 0
 
 VAR luis_relationship = 0
 
@@ -759,3 +798,19 @@ VAR bsq = 0
 // Tier 4 (Lacocce):
 // Tier 5 (Diwhore):
 // Tier 6 (Balenciagash): black mesh jumpsuit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
